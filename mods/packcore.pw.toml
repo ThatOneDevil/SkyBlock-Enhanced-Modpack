@@ -1,0 +1,13 @@
+name = "PackCore"
+filename = "packcore-2.0.0-1.21.5-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V3FnL7QV/versions/UVNjXDX3/packcore-2.0.0-1.21.5-fabric.jar"
+hash-format = "sha512"
+hash = "2d474c7f2ea7984b640a78bbae684b95c7d06683cca3b35c52ab2d03cba5deb72e237b3b4e653e63ea444b0eebbb24cac8a789e8fcb6875cb7687db4949abb6a"
+
+[update]
+[update.modrinth]
+mod-id = "V3FnL7QV"
+version = "UVNjXDX3"

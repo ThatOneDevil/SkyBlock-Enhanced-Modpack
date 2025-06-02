@@ -1,0 +1,13 @@
+name = "Cursor Anchor"
+filename = "cursorAnchor-1.2.0-fabric-1.21.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xzgu8wGs/versions/a95bdgRp/cursorAnchor-1.2.0-fabric-1.21.5.jar"
+hash-format = "sha512"
+hash = "122a61f2eb56dcf8a876be4b93d8e70f2ec7d3810fa586f9d655c2be2f125315ea82383333c5e13cd93b6af9844c2882b6ed3c6f475ebed56e5352c589d4ed1c"
+
+[update]
+[update.modrinth]
+mod-id = "Xzgu8wGs"
+version = "a95bdgRp"
