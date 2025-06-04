@@ -1,0 +1,13 @@
+name = "Custom Scoreboard"
+filename = "Custom Scoreboard-1.5.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fpb5uaJt/versions/vFCd2YCK/Custom%20Scoreboard-1.5.0.jar"
+hash-format = "sha512"
+hash = "e91d44f66033b6cfe96cb95024902c735fe45ad52f9611ff7e57a70840944c03f593551b44213825d5609f7e20cab9498f2de9f49859e20b284018a38022975c"
+
+[update]
+[update.modrinth]
+mod-id = "fpb5uaJt"
+version = "vFCd2YCK"

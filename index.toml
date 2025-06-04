@@ -1,12 +1,39 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "0c2d2f657ef368dfe2bc475db8f189a3f7fa28766f1787c11db441dd657dddb2"
+
+[[files]]
+file = "SkyBlock Enhanced/OfficialConfigs/SkyBlock_Enhanced_Default_Configs.zip"
+hash = "349718e320368f997392d664536ee6c0d3677cc4ded8f996777cc99ec0e02f11"
+
+[[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "82dd4b8012ff07cfafc2ddbf291520c4195847fbaa4de768a5d775ce9795f42f"
+hash = "9a90b28128d63be67ad6a247fb3b86da985d4eca7224b54294b5b1da934509e9"
+
+[[files]]
+file = "icon.png"
+hash = "51576c0fa92902a17f8484e56a89daf68489e71e39ea98717502b7eac34ad8b2"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "9c5ffe0f93aec9ebca86a4e5171ccb51e283849eef1719c995d19c2480e2d07c"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a463f60553d19dc6cdb468e8a0f9faa73fd6694f8eb87fe11532c81e9c908dcf"
+metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "dc1578a021bb4e5699524f5216d8aa9b08c9d30bfbfe0bc72bf07f5391c3f3b5"
 metafile = true
 
 [[files]]
@@ -15,18 +42,23 @@ hash = "39d2695bf316d7d48d21da0ae6b38ea3e74c47c3b07c93bbade4dd753df90321"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "2cf850f2efd53156d011279577f1a749368b990835c193e0e5218b83d43143f6"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
 metafile = true
 
 [[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "a90139b002d632ba9256cb3e7e877945bf8e3afa5b191d1adc83c5e3eb72da4c"
+file = "mods/cookies-mod.pw.toml"
+hash = "fef0419fff229d501ff9827191c1cf87634bc3d352eadf6802be34f532252c0b"
 metafile = true
 
 [[files]]
-file = "mods/cursor-anchor.pw.toml"
-hash = "3269c873711d07af7eb3b62a5046f11d6bcb4165133d132ff41abce32bc564e4"
+file = "mods/cubes-without-borders.pw.toml"
+hash = "a90139b002d632ba9256cb3e7e877945bf8e3afa5b191d1adc83c5e3eb72da4c"
 metafile = true
 
 [[files]]
@@ -50,8 +82,13 @@ hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "2449e4f29f167ff8453e67d0d4fc47294523e2ca9dce022d1a5670cd2ed49808"
+file = "mods/firmament.pw.toml"
+hash = "2f25afc73a6f044f84c121623682515d1bab0764518358965ad5afe75aeb35f9"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "623f91f5cb2cfe0e7c3a6fc48ae5984dfad62e85389e2567ab5421f7d9d02c51"
 metafile = true
 
 [[files]]
@@ -62,6 +99,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e48fadea92533a14b45d8fb64ed10e5942ee90bba874589822a766a6d47930b2"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "096bce1d87ff7f759d07ae6501043c5d2db1bcdffb5ea566425843f12ff8e348"
 metafile = true
 
 [[files]]
@@ -76,12 +118,22 @@ metafile = true
 
 [[files]]
 file = "mods/packcore.pw.toml"
-hash = "de4b5539127487f894ecb7b2455f74d44e86c448128f7de8133c92ae98d7a5d3"
+hash = "d0725f163804b93e7d6c06d9a5aecba1d35255dc0749d7fe799245098280bea0"
 metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "37d94eccb60749412f669a737642a603eb549225c9a49c45320a0ca097dfc513"
+hash = "799419e64ed42a8175333c541a08995fc4d84a2c6000877f60262fe55892e3ff"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "971c19f9973cfbe98103f091734b25e9dfc5c7dba7cb3905021133ee6653abc9"
 metafile = true
 
 [[files]]
@@ -90,8 +142,18 @@ hash = "3975d8351b1a246c8c2e13251ea4f86fee525ae772a51927c37407a88b03defb"
 metafile = true
 
 [[files]]
+file = "mods/skyblock-custom-scoreboard.pw.toml"
+hash = "5d990f525e78efdf923a3a8bb4bb592e604925c2daa3a8dbad10a8b75fda0b43"
+metafile = true
+
+[[files]]
 file = "mods/skyblocker-liap.pw.toml"
 hash = "06e2c0b5ee7c9f23dc8cf78f750ccbe30f6491bdb355191525f450e3422283da"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "abe9878dcb237d56e2ba70c17db8c721c6c2b8e62b241bc333539d5bc6be938f"
 metafile = true
 
 [[files]]
@@ -107,6 +169,26 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "dee7712131e72105b1a9dafe6e103308e33023a4a48ec3b3868298d8d6c4ed6c"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "7c6d8dcec95023f027deff6645570ddccadc762545ae8fbd23b21499b15bc949"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "07d2a07067af1330cda2f153bf753dd2dea151062be830acb74b6a39a308fe60"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "c9a5dca078d983e94d629ca4bf402fff78e364e5b5365ff43373d77eec268432"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "4d54a64972ea89e49f314867802406f7ca73fa738ff35320c938f980ac0c8f4b"
 metafile = true
 
 [[files]]
