@@ -6,11 +6,11 @@ hash = "0c2d2f657ef368dfe2bc475db8f189a3f7fa28766f1787c11db441dd657dddb2"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SkyBlock_Enhanced_Default_Configs.zip"
-hash = "349718e320368f997392d664536ee6c0d3677cc4ded8f996777cc99ec0e02f11"
+hash = "16cce1127268c48429cd7f8a4dfcfce5179387fbf09ce36f5a908e29e9cb2135"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "9a90b28128d63be67ad6a247fb3b86da985d4eca7224b54294b5b1da934509e9"
+hash = "6fb20f75cfe8553a502031abd5144b861ec9182251532f4279cec656c96e75a1"
 
 [[files]]
 file = "icon.png"
@@ -24,6 +24,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a463f60553d19dc6cdb468e8a0f9faa73fd6694f8eb87fe11532c81e9c908dcf"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "544409002b00cfe520c66f8c84d69b073c8e193ea20493bfacafbf93701c889d"
 metafile = true
 
 [[files]]
@@ -68,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "528200f74061ca4d9ca1e1e65d932fd7fd49a071cef36912f117a4b2a0a537cf"
+hash = "7526ccbba405cff20b86350c9e0a59c8c470a59df70abb2fc307b6537a76105b"
 metafile = true
 
 [[files]]
@@ -148,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "06e2c0b5ee7c9f23dc8cf78f750ccbe30f6491bdb355191525f450e3422283da"
+hash = "ffa778fc83cc7b029b8d4eb13d1116757757d1b718dfc6197024f9583f47ba56"
 metafile = true
 
 [[files]]
