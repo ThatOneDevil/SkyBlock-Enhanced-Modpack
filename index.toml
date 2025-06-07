@@ -10,7 +10,7 @@ hash = "16cce1127268c48429cd7f8a4dfcfce5179387fbf09ce36f5a908e29e9cb2135"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "6fb20f75cfe8553a502031abd5144b861ec9182251532f4279cec656c96e75a1"
+hash = "77478ae9f3eeb9054e154a915299e3e8e38079d2865aa16ddce5f9878e04e57a"
 
 [[files]]
 file = "icon.png"
@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/packcore.pw.toml"
-hash = "d0725f163804b93e7d6c06d9a5aecba1d35255dc0749d7fe799245098280bea0"
+hash = "0407deff4391d88e0115ad3a9da6aed269a39461bbd5ac33e32ba9154c9b153d"
 metafile = true
 
 [[files]]
