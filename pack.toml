@@ -1,12 +1,12 @@
 name = "SkyBlock Enhanced – Modern Edition"
 author = "Kd_Gaming1"
-version = "0.2.2"
+version = "0.2.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2fbbf510f440d9fbbf7599844aa747ffa973ac3d51fa41eab3d23997f346fc13"
+hash = "b0076840df6899483b0588280125edd8131855a60e96110fc618c0120e800586"
 
 [versions]
 fabric = "0.16.14"

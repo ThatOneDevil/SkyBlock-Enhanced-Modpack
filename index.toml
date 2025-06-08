@@ -10,7 +10,7 @@ hash = "16cce1127268c48429cd7f8a4dfcfce5179387fbf09ce36f5a908e29e9cb2135"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "77478ae9f3eeb9054e154a915299e3e8e38079d2865aa16ddce5f9878e04e57a"
+hash = "4e45e1e6499aafe53fa5634bfc2021136bd81152b43b4fa4fcdbc0cad6c79551"
 
 [[files]]
 file = "icon.png"
@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/packcore.pw.toml"
-hash = "0407deff4391d88e0115ad3a9da6aed269a39461bbd5ac33e32ba9154c9b153d"
+hash = "61a501ebff936a127e99c00f261e26c692ade1934768d95bdc88859feeed7077"
 metafile = true
 
 [[files]]
@@ -149,6 +149,11 @@ metafile = true
 [[files]]
 file = "mods/skyblock-custom-scoreboard.pw.toml"
 hash = "5d990f525e78efdf923a3a8bb4bb592e604925c2daa3a8dbad10a8b75fda0b43"
+metafile = true
+
+[[files]]
+file = "mods/skyblock-profile-viewer.pw.toml"
+hash = "68a40a938e627a3396bc49092599644e92c20c7c5e8b42441c85e4f104df8c2d"
 metafile = true
 
 [[files]]
