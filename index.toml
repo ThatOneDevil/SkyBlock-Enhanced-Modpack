@@ -10,7 +10,7 @@ hash = "16cce1127268c48429cd7f8a4dfcfce5179387fbf09ce36f5a908e29e9cb2135"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "4e45e1e6499aafe53fa5634bfc2021136bd81152b43b4fa4fcdbc0cad6c79551"
+hash = "98cf9c0528b747d948f77452903f8deb95d8bdd73b1d6d9468406f2310d0d31b"
 
 [[files]]
 file = "icon.png"
@@ -47,8 +47,8 @@ hash = "39d2695bf316d7d48d21da0ae6b38ea3e74c47c3b07c93bbade4dd753df90321"
 metafile = true
 
 [[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "2cf850f2efd53156d011279577f1a749368b990835c193e0e5218b83d43143f6"
+file = "mods/chatpatches.pw.toml"
+hash = "c1a20b2bba51cb198384a2bf098fa393351701221b763cc3059a297e77d2dc0d"
 metafile = true
 
 [[files]]
@@ -104,11 +104,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e48fadea92533a14b45d8fb64ed10e5942ee90bba874589822a766a6d47930b2"
-metafile = true
-
-[[files]]
-file = "mods/morechathistory.pw.toml"
-hash = "096bce1d87ff7f759d07ae6501043c5d2db1bcdffb5ea566425843f12ff8e348"
 metafile = true
 
 [[files]]
