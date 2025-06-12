@@ -10,7 +10,7 @@ hash = "16cce1127268c48429cd7f8a4dfcfce5179387fbf09ce36f5a908e29e9cb2135"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "cfef16b1feae9fa3537bf4a878dd020510ffcd9d41eceac47cf58693e83039ca"
+hash = "4728c99c22703ca6c490f81d2bd197f2eaf185b92a694aca0207fdd708070d4f"
 
 [[files]]
 file = "icon.png"
@@ -92,6 +92,16 @@ hash = "2f25afc73a6f044f84c121623682515d1bab0764518358965ad5afe75aeb35f9"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "772b4329e035c8b0dbb728ab5c005bca5b5ea398880f7ab2edbec8a1414e8347"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "2449e4f29f167ff8453e67d0d4fc47294523e2ca9dce022d1a5670cd2ed49808"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "623f91f5cb2cfe0e7c3a6fc48ae5984dfad62e85389e2567ab5421f7d9d02c51"
 metafile = true
@@ -143,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-custom-scoreboard.pw.toml"
-hash = "428c6480a18bf0ef4444023f11f1c203bdd2ab05955aadb8342bcd4c15d9e283"
+hash = "0f4784edc1fa6e7cbf5fb0d5c3cbeb39a51a951c5da9b0a5d95cefa7807c2f5e"
 metafile = true
 
 [[files]]
