@@ -51,7 +51,7 @@ body:
         - "High - Significantly impacts gameplay"
         - "Critical - Game breaking or causes crashes"
     validations:
-      required: fasle
+      required: false
 
   - type: input
     id: modpack-version
