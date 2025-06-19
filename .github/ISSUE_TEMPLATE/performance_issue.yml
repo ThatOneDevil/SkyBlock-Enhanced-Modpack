@@ -1,0 +1,146 @@
+name: Performance Issue
+description: Report lag, crashes, or other performance problems
+title: "[Performance] "
+labels: ["performance", "bug"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Performance Issue Report
+        Help us identify and fix performance problems in SkyBlock Enhanced.
+
+  - type: checkboxes
+    id: issue-type
+    attributes:
+      label: Performance Issue Type
+      description: Select all that apply
+      options:
+        - label: Low FPS/Frame drops
+        - label: High memory usage
+        - label: Long loading times
+        - label: Frequent crashes
+        - label: Other
+
+  - type: textarea
+    id: issue-description
+    attributes:
+      label: Describe the performance issue
+      description: A clear and concise description of the performance problem.
+      placeholder: "The game becomes very laggy when..."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: when-occurs
+    attributes:
+      label: When does this occur?
+      description: Select all that apply
+      options:
+        - label: When opening specific GUIs
+        - label: When doing a specific task in skyblock
+        - label: Constantly
+        - label: Other
+
+  - type: input
+    id: os
+    attributes:
+      label: Operating System
+      description: Your operating system
+      placeholder: "Windows 11, macOS Ventura, Ubuntu 22.04, etc."
+    validations:
+      required: false
+
+  - type: input
+    id: ram-allocated
+    attributes:
+      label: RAM allocated to Minecraft
+      description: How much RAM have you allocated to Minecraft?
+      placeholder: "4GB, 8GB, etc, or don't know."
+    validations:
+      required: true
+
+  - type: input
+    id: total-ram
+    attributes:
+      label: Total system RAM
+      description: Your computer's total RAM
+      placeholder: "16GB, 32GB, etc."
+    validations:
+      required: false
+
+  - type: input
+    id: cpu
+    attributes:
+      label: CPU
+      description: Your processor model
+      placeholder: "Intel i7-12700K, AMD Ryzen 5 5600X, etc."
+    validations:
+      required: false
+
+  - type: input
+    id: gpu
+    attributes:
+      label: GPU
+      description: Your graphics card
+      placeholder: "NVIDIA RTX 3070, AMD RX 6800 XT, etc."
+    validations:
+      required: false
+
+  - type: input
+    id: modpack-version
+    attributes:
+      label: Modpack Version
+      description: Which version of SkyBlock Enhanced are you using?
+      placeholder: "SkyBlock Enhanced 1.8.9 or SkyBlock Enhanced - Modern Edition 1.21.5 and version number of installation."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: launcher
+    attributes:
+      label: Launcher
+      options:
+        - "Modrinth App"
+        - "Prism Launcher"
+        - "MultiMC"
+        - "Minecraft Launcher"
+        - "ATLauncher"
+        - "GDLauncher"
+        - "Other"
+    validations:
+      required: true
+
+  - type: textarea
+    id: jvm-arguments
+    attributes:
+      label: JVM Arguments (if custom)
+      description: Any custom JVM arguments you're using
+      placeholder: "-Xmx8G -Xms8G -XX:+UseG1GC..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs & Profiling
+      description: |
+        Please upload relevant files using [Pastebin](https://pastebin.com/) or [GitHub Gist](https://gist.github.com/).
+        Include links to:
+        - logs/latest.log
+        - logs/debug.log (if available)
+        - Crash report (if applicable)
+        - Performance profiling data (if available)
+      placeholder: |
+        - logs/latest.log: <link>
+        - Crash report: <link>
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Any other relevant information about the performance problem. Include screenshots of F3 debug screen if helpful.
+    validations:
+      required: false
