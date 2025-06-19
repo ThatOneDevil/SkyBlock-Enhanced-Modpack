@@ -1,0 +1,135 @@
+name: Bug Report
+description: Report an issue with SkyBlock Enhanced
+title: "[Bug] "
+labels: ["bug"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Bug Report
+        Thanks for taking the time to report a bug! Please fill out the form below to help me understand and fix the issue.
+
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is.
+      placeholder: "A clear and concise description of what the bug is..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction-steps
+    attributes:
+      label: Steps to Reproduce
+      description: Tell us how to reproduce this bug
+      value: |
+        1. Go to '...'
+        2. Do '...'
+        3. See error
+      placeholder: "1. Go to '...'\n2. Do '...'\n3. See error"
+    validations:
+      required: false
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected behavior
+      description: What you expected to happen instead.
+      placeholder: "I expected..."
+    validations:
+      required: false
+
+  - type: dropdown
+    id: bug-severity
+    attributes:
+      label: Bug Severity
+      options:
+        - "Low - Minor inconvenience"
+        - "Medium - Affects gameplay but workaround exists"
+        - "High - Significantly impacts gameplay"
+        - "Critical - Game breaking or causes crashes"
+    validations:
+      required: fasle
+
+  - type: input
+    id: modpack-version
+    attributes:
+      label: Modpack Version
+      description: Which version of SkyBlock Enhanced are you using?
+      placeholder: "e.g., SkyBlock Enhanced 1.8.9 or SkyBlock Enhanced - Modern Edition 1.21.5 and version number of pack e.g., version: 2.2.6"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: launcher
+    attributes:
+      label: Launcher & Installation Method
+      description: Which launcher are you using?
+      options:
+        - "Modrinth App"
+        - "Prism Launcher"
+        - "MultiMC"
+        - "Minecraft Launcher"
+        - "ATLauncher"
+        - "GDLauncher"
+        - "Other"
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs-crash-reports
+    attributes:
+      label: Logs & Crash Reports
+      description: |
+        Please upload your logs and crash reports using [Pastebin](https://pastebin.com/) or [GitHub Gist](https://gist.github.com/).
+        Include links to relevant files below:
+      value: |
+        - `logs/latest.log`: 
+        - Crash report: 
+        - Other relevant logs: 
+      placeholder: |
+        - logs/latest.log: <paste link here>
+        - Crash report: <paste link here>
+    validations:
+      required: false
+
+  - type: textarea
+    id: system-specs
+    attributes:
+      label: System Specifications (if performance related)
+      description: Include your system specs if this is a performance-related bug
+      placeholder: |
+        - OS: Windows 11
+        - RAM: 16GB (8GB allocated to Minecraft)
+        - CPU: Intel i7-12700K
+        - GPU: NVIDIA RTX 3070
+        - Java Version: Java 17
+      render: markdown
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: |
+        Add any other context about the problem here. Include screenshots if applicable.
+        Screenshots help me understand the issue better!
+      placeholder: "Screenshots, additional details, or context..."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      description: Please confirm the following before submitting
+      options:
+        - label: I have searched for existing issues and this is not a duplicate
+          required: true
+        - label: I am using the latest version of the modpack
+          required: false
+        - label: I have included relevant logs/crash reports
+          required: false
