@@ -6,11 +6,11 @@ hash = "0c2d2f657ef368dfe2bc475db8f189a3f7fa28766f1787c11db441dd657dddb2"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SkyBlock_Enhanced_Default_Configs.zip"
-hash = "16cce1127268c48429cd7f8a4dfcfce5179387fbf09ce36f5a908e29e9cb2135"
+hash = "fdd6323ee388dee59dfa189b0172228763ce34d4f664ce31dddddf45f90a5ad4"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "4728c99c22703ca6c490f81d2bd197f2eaf185b92a694aca0207fdd708070d4f"
+hash = "07b53497bdcebb532260837e91acdce5ce589b2044b8a4a909e533fbe28ee407"
 
 [[files]]
 file = "icon.png"
@@ -48,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "c1a20b2bba51cb198384a2bf098fa393351701221b763cc3059a297e77d2dc0d"
+hash = "5001fa841ab7e909190378587665890ba5f15a1373f2bf360393984d7606e2e1"
 metafile = true
 
 [[files]]
@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7526ccbba405cff20b86350c9e0a59c8c470a59df70abb2fc307b6537a76105b"
+hash = "d5a5c0249a6221deaacb0eb153e6b58b5505edd76aafe240d0bd340a6fa4562e"
 metafile = true
 
 [[files]]
@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/firmament.pw.toml"
-hash = "2f25afc73a6f044f84c121623682515d1bab0764518358965ad5afe75aeb35f9"
+hash = "5558a74f8a5fee78dd8900471580b4bd547e477ce0452db2e47fca5b1eb13c89"
 metafile = true
 
 [[files]]
@@ -108,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
+hash = "29bc0f585963a84e1f78af8a1ab779e34dcc4c1657190297bca9cd95aeb90d36"
 metafile = true
 
 [[files]]
@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-profile-viewer.pw.toml"
-hash = "68a40a938e627a3396bc49092599644e92c20c7c5e8b42441c85e4f104df8c2d"
+hash = "f3dcb8786b77e2b28421cbca570e4cdfb8e1ff133b851f89512ff6a704050a87"
 metafile = true
 
 [[files]]
@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "07d2a07067af1330cda2f153bf753dd2dea151062be830acb74b6a39a308fe60"
+hash = "dc66d444a8cfd427c3c05d47babcc43f7fca842c1d7731116bd07c7d88441edc"
 metafile = true
 
 [[files]]
