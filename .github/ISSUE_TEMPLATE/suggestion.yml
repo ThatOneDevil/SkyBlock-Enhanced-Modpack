@@ -1,0 +1,77 @@
+name: Suggestion
+description: Suggest an enhancement or new feature for SkyBlock Enhanced
+title: "[Suggestion] "
+labels: ["enhancement", "suggestion"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to suggest an improvement to SkyBlock Enhanced! Please fill out the form below to help me understand your suggestion.
+
+  - type: textarea
+    id: problem-description
+    attributes:
+      label: Is your suggestion related to a problem?
+      description: A clear and concise description of what the problem is.
+      placeholder: "I'm always frustrated when..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Describe the solution you'd like
+      description: A clear and concise description of what you want to happen.
+      placeholder: "I would like to see..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Describe alternatives you've considered
+      description: A clear and concise description of any alternative solutions or features you've considered.
+      placeholder: "Alternatively, we could..."
+    validations:
+      required: false
+
+  - type: dropdown
+    id: suggestion-type
+    attributes:
+      label: What type of suggestion is this?
+      options:
+        - New mod addition
+        - Mod configuration change
+        - Performance improvement
+        - Quality of life improvement
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: modpack-version
+    attributes:
+      label: Modpack Version
+      description: Which version of SkyBlock Enhanced are you using?
+      placeholder: "e.g., SkyBlock Enhanced or SkyBlock Enhanced - Modern Edition"
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Add any other context, screenshots, or examples about the suggestion here.
+      placeholder: "Screenshots, links, or additional details..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: compatibility-concerns
+    attributes:
+      label: Compatibility Concerns
+      description: Are you aware of any potential compatibility issues with existing mods or features?
+      placeholder: "This might conflict with..."
+    validations:
+      required: false
