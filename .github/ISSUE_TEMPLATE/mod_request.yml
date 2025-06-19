@@ -1,0 +1,88 @@
+name: Mod Request
+description: Request a specific mod to be added to SkyBlock Enhanced
+title: "[Mod Request] "
+labels: ["mod-request", "enhancement"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Mod Request
+        Please provide information about the mod you'd like to see added to SkyBlock Enhanced.
+
+  - type: input
+    id: mod-name
+    attributes:
+      label: Mod Name
+      description: The official name of the mod
+      placeholder: "e.g., NEU (NotEnoughUpdates)"
+    validations:
+      required: true
+
+  - type: input
+    id: mod-link
+    attributes:
+      label: GitHub/Modrinth Link
+      description: Direct link to the mod page
+      placeholder: "https://modrinth.com/mods/..."
+    validations:
+      required: false
+
+  - type: dropdown
+    id: minecraft-version
+    attributes:
+      label: Minecraft Version Compatibility
+      options:
+        - "1.8.9"
+        - "1.21.5"
+        - "Other"
+    validations:
+      required: false
+
+  - type: textarea
+    id: why-add
+    attributes:
+      label: Why should this mod be added?
+      description: Explain how this mod would enhance the SkyBlock Enhanced experience.
+      placeholder: "This mod would improve the experience by..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: theme-fit
+    attributes:
+      label: Does this mod fit the modpack's theme?
+      description: Explain how this mod aligns with the SkyBlock Enhanced style and goal.
+      placeholder: "This mod fits because..."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: compatibility-check
+    attributes:
+      label: Compatibility Check
+      description: Please verify the following before submitting
+      options:
+        - label: I have verified this mod is compatible with 1.8.9 or 1.21.5
+          required: true
+        - label: I have checked that this mod doesn't conflict with existing mods
+          required: true
+        - label: I have verified the mod is actively maintained
+          required: false
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternative Mods
+      description: Are there any similar mods that could provide the same functionality?
+      placeholder: "Similar mods include..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Information
+      description: Any other relevant details, screenshots, or examples about the mod.
+    validations:
+      required: false
