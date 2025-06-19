@@ -24,7 +24,9 @@ If applicable, add screenshots to help explain your problem.
 
 **Modpack Version**  
 - SkyBlock Enhanced version: `<version>`
-
+- or
+- SkyBlock Enhanced - Modern Edition version: `<version>`
+  
 **Launcher & Installation Method**  
 - Which launcher are you using? (`Modrinth app`, `Prism Launcher`, `Minecraft Launcher`, etc.)  
 
