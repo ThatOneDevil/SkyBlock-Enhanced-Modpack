@@ -22,7 +22,7 @@ hash = "d0cc29fd2c46100f0ffc04228ab1328b165f7273733b3bd13ccd5ca0587c1a33"
 
 [[files]]
 file = "Skyblock Enhanced/modpack_info.json"
-hash = "3e214a264a43000f759c3e03c0ded016500c0c5bfdb6d4169ea7c5b526dc6cdd"
+hash = "4f205063d13fe71dc72c6a211d3fb5eed4ba9b84d5bdf00b2f5b791bfb773c05"
 
 [[files]]
 file = "icon.png"
@@ -39,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-guide.pw.toml"
-hash = "3b7cc5d22af22320f8f3d5b0242c654e5bf520f06b03c561cefcbf321989fb2a"
+hash = "bed59cf01c982149f98d568e68c0fd263ccf0a5f23506310f38f4e0e86032e38"
 metafile = true
 
 [[files]]
@@ -49,7 +49,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "544cc88b12f8e89432720e9ba96f52b5a465efe687191d77cb628ac415a6157d"
+hash = "ef4fdd8f386dfac0422de966e7b90c58c65e200811a82893dd5111e3e54aab7d"
 metafile = true
 
 [[files]]
@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughupdates.pw.toml"
-hash = "3af4a03ca3ee42ee14b113d5cad064434b387f60901b12127c95c5aad1f98666"
+hash = "8dff3d320bc947719b676dd8b7464b2234afff47a8ed0504b2d37b0ff4151d97"
 metafile = true
 
 [[files]]
@@ -104,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/redirectionor.pw.toml"
-hash = "f5a10da5ee42dce842e0ffa30407e4b7b48002238df301a10e1335afbaa000a4"
+hash = "b4a8552dc1bbba7775913f1bfdc06f154e63392541cceccbe5b100c725e20006"
 metafile = true
 
 [[files]]
@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "769eb42b744582c4d33d43de17638ee8c38f7b7451a12a66a4e7c3c0f9ff0fee"
+hash = "01e93a36624719ed73595b0462c9824a602f151841a2707934181d2c62f8b3c0"
 metafile = true
 
 [[files]]
