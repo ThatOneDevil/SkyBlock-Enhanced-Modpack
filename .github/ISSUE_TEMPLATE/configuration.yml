@@ -1,0 +1,119 @@
+name: Configuration Issue
+description: Report problems with default configurations or suggest configuration changes
+title: "[Config] "
+labels: ["configuration"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Configuration Issue/Suggestion
+        Help me improve the default configurations in SkyBlock Enhanced by reporting problems or suggesting improvements.
+
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue Type
+      options:
+        - "Configuration problem/bug"
+        - "Configuration suggestion/improvement"
+        - "Missing configuration option"
+        - "Configuration causing compatibility issues"
+        - "Performance-related configuration"
+        - "Other"
+    validations:
+      required: true
+
+  - type: input
+    id: mod-name
+    attributes:
+      label: Mod Name
+      description: Which mod's configuration is this about?
+      placeholder: "e.g., NEU, SkyHanni, PolyPatcher"
+    validations:
+      required: true
+
+  - type: textarea
+    id: current-behavior
+    attributes:
+      label: Current Behavior/Problem
+      description: Describe the current configuration behavior or problem you're experiencing.
+      placeholder: "Currently, the mod is configured to..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggested-change
+    attributes:
+      label: Suggested Configuration Change
+      description: What configuration changes would you like to see? Include specific config values if possible.
+      placeholder: "I suggest changing [setting] from [current value] to [new value] because... or I suggest moving this GUI from [current position] to [new position] because..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason for Change
+      description: Why should this configuration be changed? How does it improve the gameplay experience?
+      placeholder: "This change would improve the experience by..."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: impact-areas
+    attributes:
+      label: Impact Areas
+      description: Which areas of the game would this configuration change affect?
+      options:
+        - label: Performance/Optimization
+        - label: User interface/Quality of life
+        - label: Mod compatibility
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority Level
+      options:
+        - "Low - Nice to have improvement"
+        - "Medium - Noticeable impact on gameplay"
+        - "High - Significantly affects gameplay or causes issues"
+        - "Critical - Causes crashes or major problems"
+    validations:
+      required: true
+
+  - type: input
+    id: modpack-version
+    attributes:
+      label: Modpack Version
+      description: Which version of SkyBlock Enhanced are you using?
+      placeholder: "e.g., SkyBlock Enhanced 1.8.9 or SkyBlock Enhanced - Modern Edition 1.21.5"
+    validations:
+      required: true
+
+  - type: textarea
+    id: testing-done
+    attributes:
+      label: Testing Done
+      description: Have you tested this configuration change? What were the results?
+      placeholder: "I tested this change by... and the results were..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: compatibility-concerns
+    attributes:
+      label: Compatibility Concerns
+      description: Are there any potential compatibility issues with other mods or features, or a GUI that overlaps?
+      placeholder: "This might affect..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Add any other context, screenshots, config snippets, or examples.
+      placeholder: "Screenshots, config file excerpts, or additional details..."
+    validations:
+      required: false
