@@ -104,8 +104,7 @@ body:
         - OS: Windows 11
         - RAM: 16GB (8GB allocated to Minecraft)
         - CPU: Intel i7-12700K
-        - GPU: NVIDIA RTX 3070
-        - Java Version: Java 17
+        - GPU: AMD RX 9070 XT
       render: markdown
     validations:
       required: false
