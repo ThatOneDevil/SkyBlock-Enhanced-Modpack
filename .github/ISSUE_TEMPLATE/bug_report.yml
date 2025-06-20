@@ -98,8 +98,8 @@ body:
   - type: textarea
     id: system-specs
     attributes:
-      label: System Specifications (if performance related)
-      description: Include your system specs if this is a performance-related bug
+      label: System Specifications
+      description: Include your system specs
       placeholder: |
         - OS: Windows 11
         - RAM: 16GB (8GB allocated to Minecraft)
