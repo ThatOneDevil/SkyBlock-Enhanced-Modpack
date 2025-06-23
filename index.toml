@@ -6,11 +6,11 @@ hash = "0c2d2f657ef368dfe2bc475db8f189a3f7fa28766f1787c11db441dd657dddb2"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SkyBlock_Enhanced_Default_Configs.zip"
-hash = "fdd6323ee388dee59dfa189b0172228763ce34d4f664ce31dddddf45f90a5ad4"
+hash = "6e5cc626e74c75fd9b60ffb61f710d9ef20769df4fb63049b92b72ac9ab9ddb3"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "07b53497bdcebb532260837e91acdce5ce589b2044b8a4a909e533fbe28ee407"
+hash = "5a9a843ecbfd43c78ccc4e824385604bc01b42825471e297123cfb3d54487121"
 
 [[files]]
 file = "icon.png"
@@ -18,7 +18,7 @@ hash = "51576c0fa92902a17f8484e56a89daf68489e71e39ea98717502b7eac34ad8b2"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "9c5ffe0f93aec9ebca86a4e5171ccb51e283849eef1719c995d19c2480e2d07c"
+hash = "db50e8c3fa1548b8bacf044d8871237b02de6e39b08b7e6f9ce139af9d7ca625"
 metafile = true
 
 [[files]]
@@ -33,7 +33,12 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
+hash = "2a591dc20bd77776dfb60714a83058719a81301d2dfcacdc96e81136c5611dd9"
+metafile = true
+
+[[files]]
+file = "mods/bazaar-utils.pw.toml"
+hash = "d044e72b177d5668200c67f102f408041fa5607c7ec97d50967c24e8d621e5be"
 metafile = true
 
 [[files]]
@@ -68,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "138e20f1257a5fed553a89c8701a5c15f22986a2e8b77c87bea3eafa59995920"
+hash = "f91706e274edf8016379c50d22d607dc344754f051b7cf30835c0e758ba995e0"
 metafile = true
 
 [[files]]
@@ -88,7 +93,12 @@ metafile = true
 
 [[files]]
 file = "mods/firmament.pw.toml"
-hash = "5558a74f8a5fee78dd8900471580b4bd547e477ce0452db2e47fca5b1eb13c89"
+hash = "55c6219168abc7a8fa728eed5aa600fb897748b6eb541990f1ed9f70c41fd1bd"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "c3741eb99da1676db710022999844ad608687b2008743403e840b3e9df8c5cba"
 metafile = true
 
 [[files]]
@@ -112,6 +122,11 @@ hash = "29bc0f585963a84e1f78af8a1ab779e34dcc4c1657190297bca9cd95aeb90d36"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e48fadea92533a14b45d8fb64ed10e5942ee90bba874589822a766a6d47930b2"
 metafile = true
@@ -132,6 +147,11 @@ hash = "9472b84d3dbe607a4845f102842571be15bb8ede7c9c1ff084725f62cd6ee959"
 metafile = true
 
 [[files]]
+file = "mods/particle-core.pw.toml"
+hash = "35806b3163ce2405e55abcda320300fa7a133f2f67ad453c7d3631d68a5ba0e2"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "799419e64ed42a8175333c541a08995fc4d84a2c6000877f60262fe55892e3ff"
 metafile = true
@@ -147,13 +167,13 @@ hash = "971c19f9973cfbe98103f091734b25e9dfc5c7dba7cb3905021133ee6653abc9"
 metafile = true
 
 [[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "3975d8351b1a246c8c2e13251ea4f86fee525ae772a51927c37407a88b03defb"
+file = "mods/sbt.pw.toml"
+hash = "34fa3a4840745f08b4c2013f0c437530d47a7afed589aeeb7e4bd442aa1c13b4"
 metafile = true
 
 [[files]]
-file = "mods/skyblock-custom-scoreboard.pw.toml"
-hash = "0f4784edc1fa6e7cbf5fb0d5c3cbeb39a51a951c5da9b0a5d95cefa7807c2f5e"
+file = "mods/scalablelux.pw.toml"
+hash = "3975d8351b1a246c8c2e13251ea4f86fee525ae772a51927c37407a88b03defb"
 metafile = true
 
 [[files]]
@@ -164,6 +184,16 @@ metafile = true
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
 hash = "ffa778fc83cc7b029b8d4eb13d1116757757d1b718dfc6197024f9583f47ba56"
+metafile = true
+
+[[files]]
+file = "mods/skyhanni.pw.toml"
+hash = "55033adb2677b80f61c118f33f4a97a5cfcdfe7d04ddeae4609669167344d454"
+metafile = true
+
+[[files]]
+file = "mods/skyocean.pw.toml"
+hash = "eab01992b7091aa8000fda57a5649f24556dd21dfa29f4ca5d496de67dcf5b88"
 metafile = true
 
 [[files]]
@@ -188,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "7c6d8dcec95023f027deff6645570ddccadc762545ae8fbd23b21499b15bc949"
+hash = "01586a21c55e79e09cbe5ad774c2002cbe8f48d0c96868c8f889ce57b5acf2d1"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "SkyOcean"
+filename = "skyocean-1.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dIczrQAR/versions/1l5Echc0/skyocean-1.2.2.jar"
+hash-format = "sha512"
+hash = "c8caae730cae9a8922a616a42812ed4afa5ed828d522261729946cb59a746bf4eb8976dff7eb066bf4421f56c9279f5f16cba1a09cf93387dfcea72ba7f398b3"
+
+[update]
+[update.modrinth]
+mod-id = "dIczrQAR"
+version = "1l5Echc0"
