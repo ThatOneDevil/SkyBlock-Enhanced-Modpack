@@ -1,0 +1,13 @@
+name = "Furfsky Reborn"
+filename = "§a§lFurf§b§lSky §6§lReborn §8§lFULL 1.9 1.21.5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/khMbd0K1/versions/pQLXf70V/%C2%A7a%C2%A7lFurf%C2%A7b%C2%A7lSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lFULL%201.9%201.21.5.zip"
+hash-format = "sha512"
+hash = "b63a850ba07d2e57e4310a1aebd108c95b60dcee380dab7150b9eac546475a9ea3c286e77bff6bbe27726e5faa3716b27c064b201e4b02bdb242f379dea60b1f"
+
+[update]
+[update.modrinth]
+mod-id = "khMbd0K1"
+version = "pQLXf70V"

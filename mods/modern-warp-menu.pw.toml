@@ -1,0 +1,13 @@
+name = "Modern Warp Menu"
+filename = "modernwarpmenu-0.1.0+1.21.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3GNyRk4I/versions/y5iWOKvm/modernwarpmenu-0.1.0%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "b7b044ab42db0068d8976360bc23ed8150bb3b8c043a0bf7904cefbf90ccab10c732222c7202b77e255ccce86b34d4cdcab8b894cacf1fac3130dc38b135d40b"
+
+[update]
+[update.modrinth]
+mod-id = "3GNyRk4I"
+version = "y5iWOKvm"

@@ -6,11 +6,11 @@ hash = "0c2d2f657ef368dfe2bc475db8f189a3f7fa28766f1787c11db441dd657dddb2"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SkyBlock_Enhanced_Default_Configs.zip"
-hash = "6e5cc626e74c75fd9b60ffb61f710d9ef20769df4fb63049b92b72ac9ab9ddb3"
+hash = "c699e303f73a7fbaa20502246ebf88981ec58d4137324fa2689f200cc8b2f472"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "5a9a843ecbfd43c78ccc4e824385604bc01b42825471e297123cfb3d54487121"
+hash = "7b0edf148b70736257e86dd8b34602cb4c9e649b9fa6f4c895f4a65a4e3c0a27"
 
 [[files]]
 file = "icon.png"
@@ -78,12 +78,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d5a5c0249a6221deaacb0eb153e6b58b5505edd76aafe240d0bd340a6fa4562e"
+hash = "191d25d191a31ada2de9916f4f6ad9b339c1775b104ea4046e414422a09888bc"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
@@ -124,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
+metafile = true
+
+[[files]]
+file = "mods/modern-warp-menu.pw.toml"
+hash = "8e33bb462136121fda9d6b9d3d943cf9d61796ad89af728b76a6c015fa5587da"
 metafile = true
 
 [[files]]
@@ -188,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "55033adb2677b80f61c118f33f4a97a5cfcdfe7d04ddeae4609669167344d454"
+hash = "1976fd178b499a4540b5e31aee8f2e266aa2ed7b8fd9a51786bb172b3edd2a88"
 metafile = true
 
 [[files]]
@@ -234,6 +239,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "4d54a64972ea89e49f314867802406f7ca73fa738ff35320c938f980ac0c8f4b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/furfsky-reborn.pw.toml"
+hash = "e11d17602a3933fd6fe9582d900ddbbd1f9e6d65d751931e0f3bfa3e85592fe8"
 metafile = true
 
 [[files]]
