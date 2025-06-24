@@ -10,7 +10,7 @@ hash = "c699e303f73a7fbaa20502246ebf88981ec58d4137324fa2689f200cc8b2f472"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "7b0edf148b70736257e86dd8b34602cb4c9e649b9fa6f4c895f4a65a4e3c0a27"
+hash = "1a8e394898f120bbe5edb3951415d65420d974f94828c0c55dc35e4f9180dc3b"
 
 [[files]]
 file = "icon.png"
@@ -38,7 +38,7 @@ metafile = true
 
 [[files]]
 file = "mods/bazaar-utils.pw.toml"
-hash = "d044e72b177d5668200c67f102f408041fa5607c7ec97d50967c24e8d621e5be"
+hash = "02bc0f634dbb27756bf0517172901d0149191d384ed9db8d5bda2c3c37f6766d"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyocean.pw.toml"
-hash = "eab01992b7091aa8000fda57a5649f24556dd21dfa29f4ca5d496de67dcf5b88"
+hash = "a7c5ea0cb5e79f7a11f5e7fb42047258a28344b8cd9ca32762e19c758610e725"
 metafile = true
 
 [[files]]
