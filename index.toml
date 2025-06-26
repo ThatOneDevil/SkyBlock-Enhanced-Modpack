@@ -10,7 +10,7 @@ hash = "c699e303f73a7fbaa20502246ebf88981ec58d4137324fa2689f200cc8b2f472"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "1a8e394898f120bbe5edb3951415d65420d974f94828c0c55dc35e4f9180dc3b"
+hash = "fc0aaebcdd4dc9ce3ea8d30e8adab34466c12a1b377ee1ffe644855af906a44e"
 
 [[files]]
 file = "icon.png"
@@ -38,7 +38,7 @@ metafile = true
 
 [[files]]
 file = "mods/bazaar-utils.pw.toml"
-hash = "02bc0f634dbb27756bf0517172901d0149191d384ed9db8d5bda2c3c37f6766d"
+hash = "4e9b52b3baf90227a3582e25773919f12d85701cc12b35328530279793d3e0ae"
 metafile = true
 
 [[files]]
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-warp-menu.pw.toml"
-hash = "8e33bb462136121fda9d6b9d3d943cf9d61796ad89af728b76a6c015fa5587da"
+hash = "7cd948e3ddee92c9ac2a87e6d101e5abb3f80bc02d6a75e3825aa66494d30189"
 metafile = true
 
 [[files]]
@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/sbt.pw.toml"
-hash = "34fa3a4840745f08b4c2013f0c437530d47a7afed589aeeb7e4bd442aa1c13b4"
+hash = "c7c0a293467d25efa7b954eaa84af0cfbad13d116fabb638e419072dcb32b439"
 metafile = true
 
 [[files]]
@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-profile-viewer.pw.toml"
-hash = "f3dcb8786b77e2b28421cbca570e4cdfb8e1ff133b851f89512ff6a704050a87"
+hash = "8bda37de2117f27b1ae11ba72f41f74770cc7b7e35d9f628279def31449b0382"
 metafile = true
 
 [[files]]
@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "1976fd178b499a4540b5e31aee8f2e266aa2ed7b8fd9a51786bb172b3edd2a88"
+hash = "9027d71379340fc8b2d05c2638b48e5e1f6ccbde2836d3265622c80ec57798aa"
 metafile = true
 
 [[files]]
