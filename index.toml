@@ -5,12 +5,20 @@ file = "README.md"
 hash = "0c2d2f657ef368dfe2bc475db8f189a3f7fa28766f1787c11db441dd657dddb2"
 
 [[files]]
-file = "SkyBlock Enhanced/OfficialConfigs/SkyBlock_Enhanced_Default_Configs.zip"
+file = "SkyBlock Enhanced/OfficialConfigs/SE-1080p_screen_size-Default_Configs.zip"
+hash = "384816c7743d5a2bf587fcea08706b59e8f2dc40d5f2d5056eeaedb66b6ae0a6"
+
+[[files]]
+file = "SkyBlock Enhanced/OfficialConfigs/SE-1440p_screen_size-Default_Configs.zip"
+hash = "ceecb89fb3b95948ce36285d4c48fdda6812c72470c28e7849b43b41c721c9f3"
+
+[[files]]
+file = "SkyBlock Enhanced/OfficialConfigs/SE-Default_Configs-Old.zip"
 hash = "c699e303f73a7fbaa20502246ebf88981ec58d4137324fa2689f200cc8b2f472"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "fc0aaebcdd4dc9ce3ea8d30e8adab34466c12a1b377ee1ffe644855af906a44e"
+hash = "069329f338a9d93828e539130ade1d1f300efccd19e26b0f6e38850e6ccfb5f8"
 
 [[files]]
 file = "icon.png"
@@ -62,11 +70,6 @@ hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
 metafile = true
 
 [[files]]
-file = "mods/cookies-mod.pw.toml"
-hash = "fef0419fff229d501ff9827191c1cf87634bc3d352eadf6802be34f532252c0b"
-metafile = true
-
-[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "a90139b002d632ba9256cb3e7e877945bf8e3afa5b191d1adc83c5e3eb72da4c"
 metafile = true
@@ -78,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "191d25d191a31ada2de9916f4f6ad9b339c1775b104ea4046e414422a09888bc"
+hash = "275a1ecb11bde12b8c4c713b533230c75bc47bcffc590c5299287263d828c9b3"
 metafile = true
 
 [[files]]
@@ -104,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "772b4329e035c8b0dbb728ab5c005bca5b5ea398880f7ab2edbec8a1414e8347"
+metafile = true
+
+[[files]]
+file = "mods/hypixel-mod-api.pw.toml"
+hash = "42253042d1ceef54a447e284f35e83dae016d9baf626186bb2df91786ea68502"
 metafile = true
 
 [[files]]
@@ -148,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/packcore.pw.toml"
-hash = "9472b84d3dbe607a4845f102842571be15bb8ede7c9c1ff084725f62cd6ee959"
+hash = "dfadd59215ae46104e520c8e5b4f37bbcb16d5ad135da8cffbd525ab8a046de7"
 metafile = true
 
 [[files]]
@@ -182,8 +190,18 @@ hash = "3975d8351b1a246c8c2e13251ea4f86fee525ae772a51927c37407a88b03defb"
 metafile = true
 
 [[files]]
+file = "mods/scaleme.pw.toml"
+hash = "49c266836f44bf646e08ec6e8c5a1a53303fe6385335d3e20b620d1d114f710e"
+metafile = true
+
+[[files]]
 file = "mods/skyblock-profile-viewer.pw.toml"
 hash = "8bda37de2117f27b1ae11ba72f41f74770cc7b7e35d9f628279def31449b0382"
+metafile = true
+
+[[files]]
+file = "mods/skyblockaddons-unofficial.pw.toml"
+hash = "bbc436f5d6802ec630596708c0f4cd4731934c3b204e54241ffa6f5cd006c4cc"
 metafile = true
 
 [[files]]
@@ -193,12 +211,12 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "9027d71379340fc8b2d05c2638b48e5e1f6ccbde2836d3265622c80ec57798aa"
+hash = "d0050d95db0d49895a9190741f675c7775ae68def05bc0598741a084f86f06c6"
 metafile = true
 
 [[files]]
 file = "mods/skyocean.pw.toml"
-hash = "a7c5ea0cb5e79f7a11f5e7fb42047258a28344b8cd9ca32762e19c758610e725"
+hash = "1e42e0244552dbb0c277f9968ec3321714a21f5902cadf87239dec70592bfc00"
 metafile = true
 
 [[files]]
@@ -209,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "700caca572649f238e804258f79d25969031be3e1b01d0384eb54a13200caba6"
+metafile = true
+
+[[files]]
+file = "mods/sound-controller.pw.toml"
+hash = "5eb6c30f71d4b90b393612c6ca74e157b5544320f652bb397de165486685679a"
 metafile = true
 
 [[files]]
@@ -237,13 +260,17 @@ hash = "c9a5dca078d983e94d629ca4bf402fff78e364e5b5365ff43373d77eec268432"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Warp Menu - New Islands.zip"
+hash = "58c2127f511d6cb9a5ede38c506e6ed5c3158a273f9a403ba84a25a3de05e899"
+
+[[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "4d54a64972ea89e49f314867802406f7ca73fa738ff35320c938f980ac0c8f4b"
 metafile = true
 
 [[files]]
 file = "resourcepacks/furfsky-reborn.pw.toml"
-hash = "e11d17602a3933fd6fe9582d900ddbbd1f9e6d65d751931e0f3bfa3e85592fe8"
+hash = "b9ed9ca49fdbaa06e2764596d734ebc4f197e8267a54e8a1f00ee816f496522b"
 metafile = true
 
 [[files]]

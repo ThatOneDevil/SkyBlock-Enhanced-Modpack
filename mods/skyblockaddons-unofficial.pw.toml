@@ -1,0 +1,13 @@
+name = "SkyblockAddons Unofficial"
+filename = "SkyblockAddons-2.0.0-alpha.6+581-for-MC-1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F35D4vTL/versions/74TG885m/SkyblockAddons-2.0.0-alpha.6%2B581-for-MC-1.21.5.jar"
+hash-format = "sha512"
+hash = "d9c2e03faf003c915fcefbc7881c9eb2a9f05965d175556daa2a8e11eecc8709daa388d675742748b377b0d095af1865511c9224af3e1cb1f11da6c2ab336150"
+
+[update]
+[update.modrinth]
+mod-id = "F35D4vTL"
+version = "74TG885m"
