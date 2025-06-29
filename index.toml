@@ -6,11 +6,11 @@ hash = "0c2d2f657ef368dfe2bc475db8f189a3f7fa28766f1787c11db441dd657dddb2"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SE-1080p_screen_size-Default_Configs.zip"
-hash = "69511d4270b3c6fa0c6b4d6a42bc3577dad7b73acb5ad3824cead84e0421af7d"
+hash = "ae871d5da262a443863636ff8610e1e61b0aed35af438a1cb3708af1db672a94"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SE-1440p_screen_size-Default_Configs.zip"
-hash = "fe72ddbec9d9259c50ae9b14b8200757c4a26b066f3e36c5f83700fd5363dd8d"
+hash = "2941dec46f4be89e70a620d848e4ad62be58460308e9b50bdc3fe2ce4092465b"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SE-Default_Configs-Old.zip"
@@ -18,7 +18,7 @@ hash = "c699e303f73a7fbaa20502246ebf88981ec58d4137324fa2689f200cc8b2f472"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "a0252be30f3422cf18d78818b66944c05d7458fcfdda55be74be88ca8e523694"
+hash = "5f2d4abbf3034305e9960ba6097f257bc82b9752c5a1987d838e757a9ac86497"
 
 [[files]]
 file = "icon.png"
@@ -192,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/scaleme.pw.toml"
 hash = "49c266836f44bf646e08ec6e8c5a1a53303fe6385335d3e20b620d1d114f710e"
+metafile = true
+
+[[files]]
+file = "mods/sk1er-scrollable-tooltips.pw.toml"
+hash = "7df906c0f5ee6d8bc2ce16eeb143f931897fb9705cc4bc5bba7e251f6ef9fd72"
 metafile = true
 
 [[files]]

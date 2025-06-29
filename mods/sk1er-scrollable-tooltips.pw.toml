@@ -1,0 +1,13 @@
+name = "Scrollable Tooltips"
+filename = "Scrollable Tooltips-1.4 (1.21.5_Fabric).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f7uKTH6d/versions/pz7CsjLC/Scrollable%20Tooltips-1.4%20%281.21.5_Fabric%29.jar"
+hash-format = "sha512"
+hash = "0ddd7867d2eb9cf069401cb5b9c7687e2f679ee5bda872a0896947903c95aa02ef1e97844cf2839e68ba15a5e20f0cb64352135f771b044b83505fd5e085d1f3"
+
+[update]
+[update.modrinth]
+mod-id = "f7uKTH6d"
+version = "pz7CsjLC"
