@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/ISSUE_TEMPLATE/bug_report.yml"
-hash = "62f7952367a74a8233692454ee784860915022394232c633bbf1d916a8c2f6db"
+hash = "aa6bb01ceed3ec15078be129145adb074798e7abf700bc2dabbbebcd89cd16db"
 
 [[files]]
 file = ".github/ISSUE_TEMPLATE/configuration.yml"
@@ -38,7 +38,7 @@ hash = "d0cc29fd2c46100f0ffc04228ab1328b165f7273733b3bd13ccd5ca0587c1a33"
 
 [[files]]
 file = "Skyblock Enhanced/modpack_info.json"
-hash = "785ffb97d158a2b979336e7cd0381db11b053f4fc87be7346e325532b042d803"
+hash = "6a76b963d3c2ffcb43f56c25d0c7cd421f81ae3692cdbebd73911cd1489d497f"
 
 [[files]]
 file = "icon.png"
@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "ef4fdd8f386dfac0422de966e7b90c58c65e200811a82893dd5111e3e54aab7d"
+hash = "fd1c3901856b2e75002c2eb0786361d398f91d66a71fed768995c7a0399fa4dc"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "59f088a21cba3dce005ff8c6ff9c91ecaecdbf1a453f418cdeb9d39be0a067e7"
+hash = "a624b030ff62dbff2627ca581d487ab259867204adf7131b1aa50b68de6262ce"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/faithful-32x.pw.toml"
-hash = "48b31ea0d1dd8fc36110694d65572710773ffa093ffbbfec613b5ef150f4029d"
+hash = "a2fc236c1d93040533f15238dc30314b69619898b9723dc6400e6cc6c8b9be37"
 metafile = true
 
 [[files]]

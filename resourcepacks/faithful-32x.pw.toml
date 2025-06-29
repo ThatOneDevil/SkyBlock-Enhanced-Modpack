@@ -3,11 +3,11 @@ filename = "Faithful 32x - 1.8.9.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/w0TnApzs/versions/WvGthxjm/Faithful%2032x%20-%201.8.9.zip"
+url = "https://cdn.modrinth.com/data/w0TnApzs/versions/eRPG9lT8/Faithful%2032x%20-%201.8.9.zip"
 hash-format = "sha512"
-hash = "3e2a41897a6c9f9d1784c74a752a9cf74959141b21b0665d79419820a7eece3aa227a7bbf836258bfc1232b9fb63e5f127145598f3e8ee9565901a9b200f0da9"
+hash = "b3285fdfeba116577fdc4ae4026c6530a4b98fd7f5c1b250d3ead5fbe3191635bd404a38a6c4843aa71a431d18355f15d656b33a4f8ccef0b52008e63bf4aca6"
 
 [update]
 [update.modrinth]
 mod-id = "w0TnApzs"
-version = "WvGthxjm"
+version = "eRPG9lT8"
