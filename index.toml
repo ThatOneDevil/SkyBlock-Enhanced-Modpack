@@ -6,19 +6,19 @@ hash = "0c2d2f657ef368dfe2bc475db8f189a3f7fa28766f1787c11db441dd657dddb2"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SE-1080p_screen_size-Default_Configs.zip"
-hash = "ae871d5da262a443863636ff8610e1e61b0aed35af438a1cb3708af1db672a94"
+hash = "c5aaabec2973c9f6950d9e2ba5f8fef4146acfab14b35646e742c948cf74d11a"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SE-1440p_screen_size-Default_Configs.zip"
-hash = "2941dec46f4be89e70a620d848e4ad62be58460308e9b50bdc3fe2ce4092465b"
+hash = "5461f211d56a13ff13247f55a558859613cd4d858e196e9693a4cdc17730d567"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SE-Default_Configs-Old.zip"
-hash = "c699e303f73a7fbaa20502246ebf88981ec58d4137324fa2689f200cc8b2f472"
+hash = "6d8b7a51938ee969587a0147a951b43eec3a0108388a929c25f9bbdc2ba7f758"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "5f2d4abbf3034305e9960ba6097f257bc82b9752c5a1987d838e757a9ac86497"
+hash = "faa447e16420ce15b8a9a01b54c152ef1631eb38c8b044e2fe97737356c51725"
 
 [[files]]
 file = "icon.png"
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/packcore.pw.toml"
-hash = "dfadd59215ae46104e520c8e5b4f37bbcb16d5ad135da8cffbd525ab8a046de7"
+hash = "0280c03b787a97efa48d1794c60f75745e9d824047ab0b644ee86c172f13e776"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "971c19f9973cfbe98103f091734b25e9dfc5c7dba7cb3905021133ee6653abc9"
+hash = "f04be730a6dde5e7e3ce302260bc1a456a4e0fd57a00755d3992f9c0daafd21d"
 metafile = true
 
 [[files]]
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/scaleme.pw.toml"
-hash = "49c266836f44bf646e08ec6e8c5a1a53303fe6385335d3e20b620d1d114f710e"
+hash = "5d1aa36dd881099e85fefe006bc68559e44930dedd376c2404c5d643fc4e436d"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblockaddons-unofficial.pw.toml"
-hash = "bbc436f5d6802ec630596708c0f4cd4731934c3b204e54241ffa6f5cd006c4cc"
+hash = "5d4a970bfe1fa0b5de027bbe950cb31cdfa8c2761de2985e05be986d7aee8163"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "d0050d95db0d49895a9190741f675c7775ae68def05bc0598741a084f86f06c6"
+hash = "489cf595568f44c981980abd3fd6892f9f543cd1031e86d95026307f8b9f8758"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/furfsky-reborn.pw.toml"
-hash = "b9ed9ca49fdbaa06e2764596d734ebc4f197e8267a54e8a1f00ee816f496522b"
+hash = "b56bb632dc2e82e66b7f477ae94b3586a18e9727996409e509e51a742a0f22a1"
 metafile = true
 
 [[files]]
