@@ -1,0 +1,13 @@
+name = "Vistas"
+filename = "vistas-2.10.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/itzZXRxq/versions/YoEix611/vistas-2.10.0.jar"
+hash-format = "sha512"
+hash = "87a4ffc2bb7c8f3ca671e0e5d8e403d9d05900716be32deb36dd1b3d25683edcfc3392c21878ff105a74e7b8c832a68e3068d81a7306f66a015445a161fd5adc"
+
+[update]
+[update.modrinth]
+mod-id = "itzZXRxq"
+version = "YoEix611"

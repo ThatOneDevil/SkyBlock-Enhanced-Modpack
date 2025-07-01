@@ -245,6 +245,11 @@ hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
 metafile = true
 
 [[files]]
+file = "mods/vistas.pw.toml"
+hash = "633434fd0533b75e3ead8e8d6b44d327ca70a9e4c3a3a72b6b7f46d196222673"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "dee7712131e72105b1a9dafe6e103308e33023a4a48ec3b3868298d8d6c4ed6c"
 metafile = true
