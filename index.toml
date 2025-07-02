@@ -6,11 +6,11 @@ hash = "0c2d2f657ef368dfe2bc475db8f189a3f7fa28766f1787c11db441dd657dddb2"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SE-1080p_screen_size-Default_Configs.zip"
-hash = "c5aaabec2973c9f6950d9e2ba5f8fef4146acfab14b35646e742c948cf74d11a"
+hash = "df917c7f0972c674c9764c98f629eaf6bfdd8a1db98d1788e3e4db85e15b5d8f"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SE-1440p_screen_size-Default_Configs.zip"
-hash = "5461f211d56a13ff13247f55a558859613cd4d858e196e9693a4cdc17730d567"
+hash = "5f5c38c31ef29c028aef6409fe6dc9ec80631cc8fde136cb5138ff42093368f1"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SE-Default_Configs-Old.zip"
@@ -18,7 +18,7 @@ hash = "6d8b7a51938ee969587a0147a951b43eec3a0108388a929c25f9bbdc2ba7f758"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "faa447e16420ce15b8a9a01b54c152ef1631eb38c8b044e2fe97737356c51725"
+hash = "3603a656fb8a8b4d6a57d0fde381e340a2469aeb9da55a25b42377c878db2495"
 
 [[files]]
 file = "icon.png"
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/firmament.pw.toml"
-hash = "55c6219168abc7a8fa728eed5aa600fb897748b6eb541990f1ed9f70c41fd1bd"
+hash = "51319efb3138f7ce82cc70ef33e8fef704a02b46788233c8a5e1ec536a42b8df"
 metafile = true
 
 [[files]]
