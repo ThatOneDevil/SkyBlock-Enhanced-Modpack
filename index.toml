@@ -6,11 +6,11 @@ hash = "0c2d2f657ef368dfe2bc475db8f189a3f7fa28766f1787c11db441dd657dddb2"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SE-1080p_screen_size-Default_Configs.zip"
-hash = "df917c7f0972c674c9764c98f629eaf6bfdd8a1db98d1788e3e4db85e15b5d8f"
+hash = "aa2e316d8817e10e45c271fb2d5cbd934e8f616ba99827608b814edb3bb8b692"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SE-1440p_screen_size-Default_Configs.zip"
-hash = "5f5c38c31ef29c028aef6409fe6dc9ec80631cc8fde136cb5138ff42093368f1"
+hash = "5fccff70eb8209068503e44004fd7416c6b8822626a03184406bf9808d38db8b"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SE-Default_Configs-Old.zip"
@@ -18,7 +18,7 @@ hash = "6d8b7a51938ee969587a0147a951b43eec3a0108388a929c25f9bbdc2ba7f758"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "3603a656fb8a8b4d6a57d0fde381e340a2469aeb9da55a25b42377c878db2495"
+hash = "73048116c94d4dffef6838aee4deda94a02ccc729c85e9a54413f454348557c2"
 
 [[files]]
 file = "icon.png"
@@ -60,13 +60,23 @@ hash = "39d2695bf316d7d48d21da0ae6b38ea3e74c47c3b07c93bbade4dd753df90321"
 metafile = true
 
 [[files]]
+file = "mods/centered-crosshair.pw.toml"
+hash = "0f25d3b1f14ab490edf3cbbf05029e3237eb0213a9e25e10b357cb91a7662ede"
+metafile = true
+
+[[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "5001fa841ab7e909190378587665890ba5f15a1373f2bf360393984d7606e2e1"
+hash = "2014a472e04d3c77f0046d5af37f1f3f38946261fe0d1b00781c18578fa1f517"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "278a349024e41e039f9f4a278532b56d1774cd2f7fde04f2cff298f3e085d995"
 metafile = true
 
 [[files]]
@@ -155,6 +165,16 @@ hash = "e94c47d7679c5a6a4a3deccaa7bba8f7c3961a70f6c03c32adc809d7135c87cc"
 metafile = true
 
 [[files]]
+file = "mods/no-double-sneak.pw.toml"
+hash = "db834fc92e54a4c688548de39cc0953a51fa9a56506a56ea2bbbbf6a2edf9c6a"
+metafile = true
+
+[[files]]
+file = "mods/no-resource-pack-warnings.pw.toml"
+hash = "da9ac20bdc1caa50ebec291429638780924e8a5060ec39abe085c7e6182b3a6f"
+metafile = true
+
+[[files]]
 file = "mods/packcore.pw.toml"
 hash = "0280c03b787a97efa48d1794c60f75745e9d824047ab0b644ee86c172f13e776"
 metafile = true
@@ -206,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblockaddons-unofficial.pw.toml"
-hash = "5d4a970bfe1fa0b5de027bbe950cb31cdfa8c2761de2985e05be986d7aee8163"
+hash = "7a9f2d52cdfad2762101d99c5e7789728ed180a97ff6d0f822ee40e38605d2a0"
 metafile = true
 
 [[files]]
@@ -216,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "489cf595568f44c981980abd3fd6892f9f543cd1031e86d95026307f8b9f8758"
+hash = "514ee6e8b49014e3a7c635a2277afc83a34fd616fd57e828baa36a1fbebf207f"
 metafile = true
 
 [[files]]
