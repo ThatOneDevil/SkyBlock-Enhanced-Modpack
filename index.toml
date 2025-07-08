@@ -5,20 +5,24 @@ file = "README.md"
 hash = "0c2d2f657ef368dfe2bc475db8f189a3f7fa28766f1787c11db441dd657dddb2"
 
 [[files]]
-file = "SkyBlock Enhanced/OfficialConfigs/SE-1080p_screen_size-Default_Configs.zip"
-hash = "aa2e316d8817e10e45c271fb2d5cbd934e8f616ba99827608b814edb3bb8b692"
+file = "SkyBlock Enhanced/OfficialConfigs/SE-1080p_screen-Default_ConfigsV2.zip"
+hash = "bffbb0f1e8a244f4bde0ab28dde7700a8aa014cf44ae3164ce91292fcf61c46f"
 
 [[files]]
-file = "SkyBlock Enhanced/OfficialConfigs/SE-1440p_screen_size-Default_Configs.zip"
-hash = "5fccff70eb8209068503e44004fd7416c6b8822626a03184406bf9808d38db8b"
+file = "SkyBlock Enhanced/OfficialConfigs/SE-1440p_screen-Default_ConfigsV2.zip"
+hash = "fa3ac1acf2f04ff3f9d4f0a8e96be25f289044a8abd251a33d951f15fcab2b28"
 
 [[files]]
-file = "SkyBlock Enhanced/OfficialConfigs/SE-Default_Configs-Old.zip"
-hash = "6d8b7a51938ee969587a0147a951b43eec3a0108388a929c25f9bbdc2ba7f758"
+file = "SkyBlock Enhanced/OfficialConfigs/SE-4k_screen-Default_ConfigsV2.zip"
+hash = "fd712c7e6850aa0216d13c3b28c0e90f86a4d9b68463ce111ae65018059be91c"
+
+[[files]]
+file = "SkyBlock Enhanced/dialog-content.md"
+hash = "e23c8e68406795b79bf105a0dfffff3c68181ef57e44d8f20484ae65cefe705b"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "73048116c94d4dffef6838aee4deda94a02ccc729c85e9a54413f454348557c2"
+hash = "52dc90aaddb487376db99e0b712f1d1a88f4b021c237034644ca80aeac8c6540"
 
 [[files]]
 file = "icon.png"
@@ -26,7 +30,7 @@ hash = "51576c0fa92902a17f8484e56a89daf68489e71e39ea98717502b7eac34ad8b2"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "db50e8c3fa1548b8bacf044d8871237b02de6e39b08b7e6f9ce139af9d7ca625"
+hash = "ea0e904b15c7662efb1b5368d44bc30a043db1e92c854c4b935e35121c932e2b"
 metafile = true
 
 [[files]]
@@ -41,12 +45,12 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "2a591dc20bd77776dfb60714a83058719a81301d2dfcacdc96e81136c5611dd9"
+hash = "1e59464196bd2a0cb5dcc4eb6014e323982e993c68c0f0173ff95b58ceed366e"
 metafile = true
 
 [[files]]
 file = "mods/bazaar-utils.pw.toml"
-hash = "4e9b52b3baf90227a3582e25773919f12d85701cc12b35328530279793d3e0ae"
+hash = "93874d0625ed80d7e05a26f3a35e4a87037076ccecc50333094e85a9e8ebc299"
 metafile = true
 
 [[files]]
@@ -86,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "f91706e274edf8016379c50d22d607dc344754f051b7cf30835c0e758ba995e0"
+hash = "ccd3108c37f2974b8f6f377dca65df3e6ed77b9fb6eb53d094d5f423f20b5392"
 metafile = true
 
 [[files]]
@@ -106,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/firmament.pw.toml"
-hash = "51319efb3138f7ce82cc70ef33e8fef704a02b46788233c8a5e1ec536a42b8df"
+hash = "002536bb0a71c2438586422a8426ad1a16206683ea601ef6f0f51224654940c2"
 metafile = true
 
 [[files]]
@@ -176,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/packcore.pw.toml"
-hash = "0280c03b787a97efa48d1794c60f75745e9d824047ab0b644ee86c172f13e776"
+hash = "1cc352f0cc223f74d08f3186c469768a5c211647ada505545d693c1508156d46"
 metafile = true
 
 [[files]]
@@ -221,22 +225,22 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-profile-viewer.pw.toml"
-hash = "8bda37de2117f27b1ae11ba72f41f74770cc7b7e35d9f628279def31449b0382"
+hash = "36df4a1f776862baa6edc0ac1874db3dc5d4c1af0911ad5bae34eb2ed18da173"
 metafile = true
 
 [[files]]
 file = "mods/skyblockaddons-unofficial.pw.toml"
-hash = "7a9f2d52cdfad2762101d99c5e7789728ed180a97ff6d0f822ee40e38605d2a0"
+hash = "894b5e627b79dd4ae5aa6176084804b471a2d0a8aafa3953965812b1b77eb3ee"
 metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "0ea4b5a9ac3f51e43185c0553b3a16c0085f49cb01d3dbc3ea9f700848739834"
+hash = "d4d67283238880ef78cf641bf55441253887ff3978bcd16fb14e8f47afd382fc"
 metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "514ee6e8b49014e3a7c635a2277afc83a34fd616fd57e828baa36a1fbebf207f"
+hash = "13764bf6340e1a3a39b084fd54eaa057b031125379c76ca421b757cee4537ff0"
 metafile = true
 
 [[files]]
@@ -247,6 +251,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "abe9878dcb237d56e2ba70c17db8c721c6c2b8e62b241bc333539d5bc6be938f"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "b91aa8ca577a8397296c43e06f54e8246cbdacd44afa08ab6188323c441ac359"
 metafile = true
 
 [[files]]
@@ -276,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "01586a21c55e79e09cbe5ad774c2002cbe8f48d0c96868c8f889ce57b5acf2d1"
+hash = "09a90457d22e51bd4612635639184596dc87ffa52a4900139d33ccb09a31b26b"
 metafile = true
 
 [[files]]
@@ -294,11 +303,6 @@ file = "resourcepacks/Warp Menu - New Islands.zip"
 hash = "58c2127f511d6cb9a5ede38c506e6ed5c3158a273f9a403ba84a25a3de05e899"
 
 [[files]]
-file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "4d54a64972ea89e49f314867802406f7ca73fa738ff35320c938f980ac0c8f4b"
-metafile = true
-
-[[files]]
 file = "resourcepacks/furfsky-reborn.pw.toml"
 hash = "b56bb632dc2e82e66b7f477ae94b3586a18e9727996409e509e51a742a0f22a1"
 metafile = true
@@ -306,4 +310,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/hypixel-plus.pw.toml"
 hash = "bbc5a21ac06cbfad45153cc7448a8b24cc9f6e72f6dd9b7329c7a8fe7b101000"
+metafile = true
+
+[[files]]
+file = "resourcepacks/skyblock-dark-ui.pw.toml"
+hash = "b40fc70081e8fe6283388be3f287eaffe3b18b74d633a923df1156159a260e6b"
 metafile = true
