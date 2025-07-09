@@ -6,23 +6,23 @@ hash = "0c2d2f657ef368dfe2bc475db8f189a3f7fa28766f1787c11db441dd657dddb2"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SE-1080p_screen-Default_ConfigsV2.zip"
-hash = "bffbb0f1e8a244f4bde0ab28dde7700a8aa014cf44ae3164ce91292fcf61c46f"
+hash = "e746897f854371d606761c4592ead1bd95f19fcf826f405dc638efa558bad216"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SE-1440p_screen-Default_ConfigsV2.zip"
-hash = "fa3ac1acf2f04ff3f9d4f0a8e96be25f289044a8abd251a33d951f15fcab2b28"
+hash = "b71eb479e6fead539dc175e04862b168cbd35a9bc057910b05cb679c054955f2"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SE-4k_screen-Default_ConfigsV2.zip"
-hash = "fd712c7e6850aa0216d13c3b28c0e90f86a4d9b68463ce111ae65018059be91c"
+hash = "ee98ffbd37568cc93009e12e104c46dfbec963458a23d3dd9e546bbee8b0dd8d"
 
 [[files]]
 file = "SkyBlock Enhanced/dialog-content.md"
-hash = "e23c8e68406795b79bf105a0dfffff3c68181ef57e44d8f20484ae65cefe705b"
+hash = "a2e7194009a42c4f7952ea4cf3b3ee8ca2e5e8be7447e033bb4870f6fd6868dc"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "52dc90aaddb487376db99e0b712f1d1a88f4b021c237034644ca80aeac8c6540"
+hash = "62f9311444a362677749f0b1e88b8fcbd776a2fa4323f510448c01d5cefd0112"
 
 [[files]]
 file = "icon.png"
@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/bazaar-utils.pw.toml"
-hash = "93874d0625ed80d7e05a26f3a35e4a87037076ccecc50333094e85a9e8ebc299"
+hash = "929837b40313c737b033990de56904eeb7907ac6c67e552a1c32bc0cb8b265fe"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2449e4f29f167ff8453e67d0d4fc47294523e2ca9dce022d1a5670cd2ed49808"
+hash = "5d6f1406628a792f100454fb8cbf3ad70a76fe58e0bdb09df3cf5e8d86e878a7"
 metafile = true
 
 [[files]]

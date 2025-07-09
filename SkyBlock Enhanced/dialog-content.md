@@ -18,9 +18,9 @@ All to make your experience as smooth as possible.
 
 ### 📦 Official Configs
 These are carefully crafted configurations made for SkyBlock Enhanced. Choose the version that matches your screen resolution:
-- `SE-4k_screen_size-Default_ConfigsV2.zip` This option is for players with 4K monitors.
-- `SE-1440p_screen_size-Default_ConfigsV2.zip` This option is for players with 1440p monitors.
-- `SE-1080p_screen_size-Default_ConfigsV2.zip` This option is for players with 1080p monitors.
+- `SE-4k_screen-Default_ConfigsV2.zip` This option is for players with 4K monitors.
+- `SE-1440p_screen-Default_ConfigsV2.zip` This option is for players with 1440p monitors.
+- `SE-1080p_screen-Default_ConfigsV2.zip` This option is for players with 1080p monitors.
 
 ### 🎨 Custom Configs
 These are community-made or personal configurations you've created.  
