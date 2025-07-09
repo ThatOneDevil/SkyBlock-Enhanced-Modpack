@@ -199,6 +199,11 @@ hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
+file = "mods/rei-search-bar-calculations.pw.toml"
+hash = "37f03f4609c17a2c72b6fb436c5a2579e486feb6d7fc8e3964471ce1a02e84a2"
+metafile = true
+
+[[files]]
 file = "mods/rei.pw.toml"
 hash = "f04be730a6dde5e7e3ce302260bc1a456a4e0fd57a00755d3992f9c0daafd21d"
 metafile = true
