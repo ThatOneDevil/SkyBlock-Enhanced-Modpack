@@ -6,15 +6,15 @@ hash = "0c2d2f657ef368dfe2bc475db8f189a3f7fa28766f1787c11db441dd657dddb2"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SE-1080p_screen-Default_ConfigsV2.zip"
-hash = "e746897f854371d606761c4592ead1bd95f19fcf826f405dc638efa558bad216"
+hash = "bf8668bd56527aaf0f22b6234e7f7ff27a70a5b494aad0ca7bbb270d6f7318e6"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SE-1440p_screen-Default_ConfigsV2.zip"
-hash = "b71eb479e6fead539dc175e04862b168cbd35a9bc057910b05cb679c054955f2"
+hash = "670f0ad0143b41a977a18080e2cdd588d5c873844e0c75980a6ff8aaa3beb649"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SE-4k_screen-Default_ConfigsV2.zip"
-hash = "ee98ffbd37568cc93009e12e104c46dfbec963458a23d3dd9e546bbee8b0dd8d"
+hash = "b8f7dcccc79a2f44904c8d6d70748757f74945dddbb3f2ec84af2f15bfb7557a"
 
 [[files]]
 file = "SkyBlock Enhanced/dialog-content.md"
@@ -22,7 +22,7 @@ hash = "a2e7194009a42c4f7952ea4cf3b3ee8ca2e5e8be7447e033bb4870f6fd6868dc"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "62f9311444a362677749f0b1e88b8fcbd776a2fa4323f510448c01d5cefd0112"
+hash = "7ada37f0c2151a21a961ad45b28cc21a856baf5c22d12add24a0bd901e163796"
 
 [[files]]
 file = "icon.png"
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/firmament.pw.toml"
-hash = "002536bb0a71c2438586422a8426ad1a16206683ea601ef6f0f51224654940c2"
+hash = "560a89ec786af0f3290d36dbc729b6ddb5ed6bfc3e4c63679eaee027e524d2a8"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-warp-menu.pw.toml"
-hash = "7cd948e3ddee92c9ac2a87e6d101e5abb3f80bc02d6a75e3825aa66494d30189"
+hash = "2ca9451fe6f573a694a23a6a1f4a69e9ab89db13ca62d36fb15fe255085d650d"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/packcore.pw.toml"
-hash = "1cc352f0cc223f74d08f3186c469768a5c211647ada505545d693c1508156d46"
+hash = "7f27637a65ffef905a8d987b4f7c8f8b086a164cafecc9e628124b3f9f174deb"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblockaddons-unofficial.pw.toml"
-hash = "894b5e627b79dd4ae5aa6176084804b471a2d0a8aafa3953965812b1b77eb3ee"
+hash = "7623847efa8147522be3e5bbaf42826641a552f5a9bfbc764a7ec8ff01af02a1"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "13764bf6340e1a3a39b084fd54eaa057b031125379c76ca421b757cee4537ff0"
+hash = "1d6ef3437d01a84913e9049db86c56bb2b6c76d376636851c30c5b488e76e0e0"
 metafile = true
 
 [[files]]

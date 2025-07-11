@@ -1,13 +1,13 @@
 name = "PackCore"
-filename = "packcore-2.4.0-1.21.5-fabric.jar"
+filename = "packcore-2.4.2-1.21.5-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/V3FnL7QV/versions/D8GCAnm6/packcore-2.4.0-1.21.5-fabric.jar"
+url = "https://cdn.modrinth.com/data/V3FnL7QV/versions/uRbS05U8/packcore-2.4.2-1.21.5-fabric.jar"
 hash-format = "sha512"
-hash = "63d62528b87e0ab57819617e114adc5bc59512869b57793cb3168c026f5b9c7734b7dbc2fa43cfd2cb5afbb35bef99b103b8c6a695588dd7b1da3a08e36c16bd"
+hash = "e8ce0ca401ddff4ab5d613bf0cee16b75b77048c2a2d1f3ee41951720fc18f5dddf05e7072b5fb6b9b73b7d6497cf96012610cb185718fe6fb135ca3b5781c12"
 
 [update]
 [update.modrinth]
 mod-id = "V3FnL7QV"
-version = "D8GCAnm6"
+version = "uRbS05U8"
