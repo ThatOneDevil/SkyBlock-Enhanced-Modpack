@@ -38,7 +38,7 @@ hash = "d0cc29fd2c46100f0ffc04228ab1328b165f7273733b3bd13ccd5ca0587c1a33"
 
 [[files]]
 file = "Skyblock Enhanced/modpack_info.json"
-hash = "6a76b963d3c2ffcb43f56c25d0c7cd421f81ae3692cdbebd73911cd1489d497f"
+hash = "0f048558448cb19040e151b7e97545e7698fcfbd30ffeba9b250a461046a60b4"
 
 [[files]]
 file = "icon.png"
@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-guide.pw.toml"
-hash = "4f73567d2d76697c7c8862d75a019381db0e8ffbbb67a1db2ffe2695251281ea"
+hash = "e56598da647bf642a28d6d0498e9337639916424c98ac896c2f9079b67d065c4"
 metafile = true
 
 [[files]]
@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "fd1c3901856b2e75002c2eb0786361d398f91d66a71fed768995c7a0399fa4dc"
+hash = "603cb52a6389dd28d565d327e90d902bbb1d8d65dbc28ca2f542add9dfff530c"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/packcore.pw.toml"
-hash = "b328029f51e959f2fb603c07f3f46709359eba3b41c2a72598dffd0e4ee4116a"
+hash = "acdee560bdc83611034b9a14bd22597f9c8d74d5a4fcc86c479a0b1652cd74d8"
 metafile = true
 
 [[files]]
@@ -129,13 +129,8 @@ hash = "a17c4bab4b0aaf03ba8dd0ec06fce692c6c70772e24fc32d1b13d5998c094ad6"
 metafile = true
 
 [[files]]
-file = "mods/skyguide.pw.toml"
-hash = "82730ca8179367e99f3dd2bd7b127e88d72ec1df37ca36fdda379b39763c2545"
-metafile = true
-
-[[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "a624b030ff62dbff2627ca581d487ab259867204adf7131b1aa50b68de6262ce"
+hash = "0b62e3fffea7444a94226c9a0ce421580cca3caf044c4b2a72bec2fbd8ec9e52"
 metafile = true
 
 [[files]]

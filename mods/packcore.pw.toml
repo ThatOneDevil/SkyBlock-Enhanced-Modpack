@@ -1,13 +1,13 @@
 name = "PackCore"
-filename = "packcore-1.1.1-1.8.9.jar"
+filename = "packcore-1.1.2-1.8.9.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/V3FnL7QV/versions/GuEHRVLZ/packcore-1.1.1-1.8.9.jar"
+url = "https://cdn.modrinth.com/data/V3FnL7QV/versions/VU0kbboy/packcore-1.1.2-1.8.9.jar"
 hash-format = "sha512"
-hash = "96007cc07b550ff24db31a0a03d461c6bf3aed6a341e50d8996d083b2ff374b5644fae6b5e08d67d1fbd1d29e03c42717f7d068423c571e6693fb7765557cd7c"
+hash = "7c9d59fa03f2a84daff924ba13e4dff124be7ce88f6a331238af47794c02608ec57fdf4f6e66648bb61a5870b57404a3c54a578cd383eca56bd2c10aeacedc2b"
 
 [update]
 [update.modrinth]
 mod-id = "V3FnL7QV"
-version = "GuEHRVLZ"
+version = "VU0kbboy"
