@@ -1,7 +1,13 @@
-name = "REI-Search-Bar-Calculations"
-filename = "rei-search-bar-calculations-1.0.0.jar"
+name = "REI Search Bar Calculations"
+filename = "rei-search-bar-calculations-1.0.1.jar"
+side = "client"
 
 [download]
-url = "https://github.com/ABigBou/REI-Search-Bar-Calculations/releases/download/v1.0.0/rei-search-bar-calculations-1.0.0.jar"
-hash-format = "sha256"
-hash = "80f9c685810090f223638a5b60dd449cfd0fcc50b531653884c7f1f3cdba2ece"
+url = "https://cdn.modrinth.com/data/42tSijuX/versions/mFrtKmhb/rei-search-bar-calculations-1.0.1.jar"
+hash-format = "sha512"
+hash = "d64d0ee5b84fe7d75f7102430aef0ab158b01a8101d8181523cd774f260ba717d6237c666d1fef6e0a2cb63b7891ea14e6cfef32f352d37d34d8ab0a08761677"
+
+[update]
+[update.modrinth]
+mod-id = "42tSijuX"
+version = "mFrtKmhb"

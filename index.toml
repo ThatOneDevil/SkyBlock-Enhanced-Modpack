@@ -2,19 +2,19 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "0c2d2f657ef368dfe2bc475db8f189a3f7fa28766f1787c11db441dd657dddb2"
+hash = "101f76b8cc59ab79c170fb5054e129800e7c867bc6046bc72f791ce8d7f7e5cc"
 
 [[files]]
-file = "SkyBlock Enhanced/OfficialConfigs/SE-1080p_screen-Default_ConfigsV2.zip"
-hash = "bf8668bd56527aaf0f22b6234e7f7ff27a70a5b494aad0ca7bbb270d6f7318e6"
+file = "SkyBlock Enhanced/OfficialConfigs/SE-1080p_screen_resolution-Default_ConfigsV2.zip"
+hash = "6baa78c6f85142de57dc71d70088dda72f2fd4b4aafc8b9c80b2bfc6779740e5"
 
 [[files]]
-file = "SkyBlock Enhanced/OfficialConfigs/SE-1440p_screen-Default_ConfigsV2.zip"
-hash = "670f0ad0143b41a977a18080e2cdd588d5c873844e0c75980a6ff8aaa3beb649"
+file = "SkyBlock Enhanced/OfficialConfigs/SE-1440p_screen_resolution-Default_ConfigsV2.zip"
+hash = "f295c508eb7c00f554bed68307461f28d23aebf5b26f366d97c16dd90f467b9c"
 
 [[files]]
-file = "SkyBlock Enhanced/OfficialConfigs/SE-4k_screen-Default_ConfigsV2.zip"
-hash = "b8f7dcccc79a2f44904c8d6d70748757f74945dddbb3f2ec84af2f15bfb7557a"
+file = "SkyBlock Enhanced/OfficialConfigs/SE-4k_screen_resolution-Default_ConfigsV2.zip"
+hash = "fad3c61c1b8e4b5e03dec6cab5614d4a89f0a3df0789cbe0b27b8b301b406361"
 
 [[files]]
 file = "SkyBlock Enhanced/dialog-content.md"
@@ -22,7 +22,7 @@ hash = "a2e7194009a42c4f7952ea4cf3b3ee8ca2e5e8be7447e033bb4870f6fd6868dc"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "7ada37f0c2151a21a961ad45b28cc21a856baf5c22d12add24a0bd901e163796"
+hash = "dcee605dbb85e64223c6f41db7a6882eefa1e85e6ffc5d3402fb2f7afcc88125"
 
 [[files]]
 file = "icon.png"
@@ -30,7 +30,7 @@ hash = "51576c0fa92902a17f8484e56a89daf68489e71e39ea98717502b7eac34ad8b2"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "ea0e904b15c7662efb1b5368d44bc30a043db1e92c854c4b935e35121c932e2b"
+hash = "e5e0885e614d4d22bda2248d3688b7ba6559fe1ca947b416124e61c0aaa70c79"
 metafile = true
 
 [[files]]
@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/bazaar-utils.pw.toml"
-hash = "929837b40313c737b033990de56904eeb7907ac6c67e552a1c32bc0cb8b265fe"
+hash = "43c7219abc715ed17b2747d97cf59885dd546c08a7595014031be56c0ffb1c55"
 metafile = true
 
 [[files]]
@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "2014a472e04d3c77f0046d5af37f1f3f38946261fe0d1b00781c18578fa1f517"
+hash = "91bfb35359acf9f62916ff73bea5f236a138951d5426aae41b8417f1b5ee0b93"
 metafile = true
 
 [[files]]
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "ccd3108c37f2974b8f6f377dca65df3e6ed77b9fb6eb53d094d5f423f20b5392"
+hash = "33d22f0f1f007754a2b13b267c395afb577616fcbb29b7473a06dca256f23803"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "c3741eb99da1676db710022999844ad608687b2008743403e840b3e9df8c5cba"
+hash = "fbefd845bd130883357c1ad3765bef4f1acc89dfd362e52358856e10315dc386"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/packcore.pw.toml"
-hash = "7f27637a65ffef905a8d987b4f7c8f8b086a164cafecc9e628124b3f9f174deb"
+hash = "2c1d8406e638571fe6929152825edd4a762d4d3fdef7995b9bc9066097d954de"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei-search-bar-calculations.pw.toml"
-hash = "37f03f4609c17a2c72b6fb436c5a2579e486feb6d7fc8e3964471ce1a02e84a2"
+hash = "59bc278d0982ec0943230822a4b7692ac0714272a04180d928c3eef99a3008b9"
 metafile = true
 
 [[files]]
@@ -245,12 +245,12 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "1d6ef3437d01a84913e9049db86c56bb2b6c76d376636851c30c5b488e76e0e0"
+hash = "e6c686118b14055e26057f883bc8f534876e2efd84588795f39f87071490de11"
 metafile = true
 
 [[files]]
 file = "mods/skyocean.pw.toml"
-hash = "1e42e0244552dbb0c277f9968ec3321714a21f5902cadf87239dec70592bfc00"
+hash = "cd88f3f305e3bd14545a510172c8756e94f733840099b2faf1204f7ef6079ecc"
 metafile = true
 
 [[files]]
