@@ -6,15 +6,15 @@ hash = "101f76b8cc59ab79c170fb5054e129800e7c867bc6046bc72f791ce8d7f7e5cc"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SE-1080p_screen_resolution-Default_ConfigsV2.zip"
-hash = "6baa78c6f85142de57dc71d70088dda72f2fd4b4aafc8b9c80b2bfc6779740e5"
+hash = "e4b9f2f72d1aec465b9ac2f57758e14fc7a26af24f0245b7d427a4b42df21f59"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SE-1440p_screen_resolution-Default_ConfigsV2.zip"
-hash = "f295c508eb7c00f554bed68307461f28d23aebf5b26f366d97c16dd90f467b9c"
+hash = "876607e3ebb740399de44bb2d092fb7f16d850e097252fa17170e701b4e2bac3"
 
 [[files]]
 file = "SkyBlock Enhanced/OfficialConfigs/SE-4k_screen_resolution-Default_ConfigsV2.zip"
-hash = "fad3c61c1b8e4b5e03dec6cab5614d4a89f0a3df0789cbe0b27b8b301b406361"
+hash = "ceebd490ab421bd1f885f37870d570e379cd441e6c94320bdf90864cfb03e9c0"
 
 [[files]]
 file = "SkyBlock Enhanced/dialog-content.md"
@@ -22,7 +22,7 @@ hash = "a2e7194009a42c4f7952ea4cf3b3ee8ca2e5e8be7447e033bb4870f6fd6868dc"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "dcee605dbb85e64223c6f41db7a6882eefa1e85e6ffc5d3402fb2f7afcc88125"
+hash = "180b05ad703b8bf6ea423274592ba71a79712c6d07ab27c874bf15ec7c8775fc"
 
 [[files]]
 file = "icon.png"
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "e6c686118b14055e26057f883bc8f534876e2efd84588795f39f87071490de11"
+hash = "b3db4700b3d4212b3f7e3f815d9f163b72979e1d9d51334c59c9844765a417ef"
 metafile = true
 
 [[files]]
