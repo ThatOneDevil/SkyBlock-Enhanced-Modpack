@@ -18,11 +18,11 @@ hash = "ceebd490ab421bd1f885f37870d570e379cd441e6c94320bdf90864cfb03e9c0"
 
 [[files]]
 file = "SkyBlock Enhanced/dialog-content.md"
-hash = "a2e7194009a42c4f7952ea4cf3b3ee8ca2e5e8be7447e033bb4870f6fd6868dc"
+hash = "31b6306196467c15f02895f7fc3640dce6cb52b3c1b70615fdfb6270d0914b9e"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "180b05ad703b8bf6ea423274592ba71a79712c6d07ab27c874bf15ec7c8775fc"
+hash = "0bb540df9486c44b4c729b4ab7b650f45b0c015f5d6e7060e4714ed8a157bbef"
 
 [[files]]
 file = "icon.png"
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-profile-viewer.pw.toml"
-hash = "36df4a1f776862baa6edc0ac1874db3dc5d4c1af0911ad5bae34eb2ed18da173"
+hash = "07d9e625fc237b3725d04f4ea68c8b67d7669746690c6239da1383a527582db2"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyocean.pw.toml"
-hash = "cd88f3f305e3bd14545a510172c8756e94f733840099b2faf1204f7ef6079ecc"
+hash = "3628871a9386ecf76ec6847427013fd7599b371b2910e3f5c76c274161798d49"
 metafile = true
 
 [[files]]
@@ -319,5 +319,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/skyblock-dark-ui.pw.toml"
-hash = "b40fc70081e8fe6283388be3f287eaffe3b18b74d633a923df1156159a260e6b"
+hash = "3468f16e24c9781246f7b4523dcf2e2249bf2e8f863a14493d295374f05d84fc"
 metafile = true
