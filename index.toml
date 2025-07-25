@@ -38,7 +38,7 @@ hash = "d0cc29fd2c46100f0ffc04228ab1328b165f7273733b3bd13ccd5ca0587c1a33"
 
 [[files]]
 file = "Skyblock Enhanced/modpack_info.json"
-hash = "0f048558448cb19040e151b7e97545e7698fcfbd30ffeba9b250a461046a60b4"
+hash = "cf9dbfd8023f0987d7e2dde103915df25278ab447c13e4b13c224083a95aa1c6"
 
 [[files]]
 file = "icon.png"
@@ -125,12 +125,12 @@ metafile = true
 
 [[files]]
 file = "mods/skyblockaddons-unofficial.pw.toml"
-hash = "a17c4bab4b0aaf03ba8dd0ec06fce692c6c70772e24fc32d1b13d5998c094ad6"
+hash = "ac298d72c4dfd2abb3d365ec303f156fed1b442a03059d6643a166e7c0f37407"
 metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "0b62e3fffea7444a94226c9a0ce421580cca3caf044c4b2a72bec2fbd8ec9e52"
+hash = "5cccde64678e9f475612c0c232043d822f3a3508c23607b10c055375e2f1f44c"
 metafile = true
 
 [[files]]
