@@ -22,7 +22,7 @@ hash = "31b6306196467c15f02895f7fc3640dce6cb52b3c1b70615fdfb6270d0914b9e"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "306fb630d738074f608aeeb03afc9c7c347365e18fbf8bb8bb5542ce4fa83242"
+hash = "163061c1218116fd478ff1f6570c43bac7662b79cf51a4efef7605730cc74413"
 
 [[files]]
 file = "icon.png"
@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "9fe52652e724da96ee6cd215166eb5b4b39c6a8d758c6e225c05e95365b620f0"
+hash = "6bf88c387529bea0535ee91a7515bda286c2a82f5e26f3a591037c41c74dac10"
 metafile = true
 
 [[files]]
@@ -240,12 +240,12 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "d4d67283238880ef78cf641bf55441253887ff3978bcd16fb14e8f47afd382fc"
+hash = "026ba7785637e264e821f7fa61d8c3211c748c19e0be252a93416a183f058f44"
 metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "15148f43ac0316c4a00a2a363947fa7bf567e9b15ab67c4ff0987fd68c1569f0"
+hash = "f1cdb261dde80c91866542e65520c3955d047d023988dddb1155ebc81fef5434"
 metafile = true
 
 [[files]]
