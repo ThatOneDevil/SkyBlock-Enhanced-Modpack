@@ -22,7 +22,7 @@ hash = "31b6306196467c15f02895f7fc3640dce6cb52b3c1b70615fdfb6270d0914b9e"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "555d72c55fd832ce3d1a082b63c2ea6cf9ed5bbfbf74b12dbb48de295503eca8"
+hash = "7d6a5a15e2e1ca375e2c2cba8d367f5b7c0e4ed2200caaeb158fe90abb4f36a3"
 
 [[files]]
 file = "icon.png"
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "fbefd845bd130883357c1ad3765bef4f1acc89dfd362e52358856e10315dc386"
+hash = "122de540aa5a998cab2481e7696ca6457323f8c8322715ea9f5df8d59d4fe8f4"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei-search-bar-calculations.pw.toml"
-hash = "59bc278d0982ec0943230822a4b7692ac0714272a04180d928c3eef99a3008b9"
+hash = "6e7d10f3933c5e85b2ba9c5a7b0e550d5af9f2a0455483e54f1746584a742f2e"
 metafile = true
 
 [[files]]
@@ -245,12 +245,12 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "7499525ee91077905ee277e2c85254e55fd4a0bb7b809703ea1929e0206fd9f9"
+hash = "ceed323429cd57477cca3a095336c55fd54c16a1aca9f1b07de5372b36e6e444"
 metafile = true
 
 [[files]]
 file = "mods/skyocean.pw.toml"
-hash = "3628871a9386ecf76ec6847427013fd7599b371b2910e3f5c76c274161798d49"
+hash = "99bb16fe60e6d1eed079afd7cc1a75d51aeeceaa077e9bfbc8154e7baa7b441b"
 metafile = true
 
 [[files]]
@@ -315,5 +315,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/skyblock-dark-ui.pw.toml"
-hash = "3468f16e24c9781246f7b4523dcf2e2249bf2e8f863a14493d295374f05d84fc"
+hash = "6e09ad2a763b2d00c30240079a7cdbc57765bc2e305ff215e2860a6cc2370b4a"
 metafile = true

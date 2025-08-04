@@ -1,13 +1,13 @@
 name = "Skyblock Dark UI"
-filename = "Skyblock Dark UI 1.4 for 1.21.5.zip"
+filename = "Skyblock Dark UI 1.5 for 1.21.5+.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ed25eRJG/versions/wjuXCfHj/Skyblock%20Dark%20UI%201.4%20for%201.21.5.zip"
+url = "https://cdn.modrinth.com/data/Ed25eRJG/versions/FESvoEJq/Skyblock%20Dark%20UI%201.5%20for%201.21.5%2B.zip"
 hash-format = "sha512"
-hash = "dc382d9cb85aeb83e7828e22b93f3536166cd402ac1907aff986737e4024c4bb30c6f87c8105dad4d36a4c3b70db37116bf3fee1aab598e4b0eba76a805dc019"
+hash = "00845951dbbfdd2de57de0b91e90bad3f5fe7908cb65839c35f5a3789c1c1d04104a5c92b3f2fe16e36e5aca77869f03f3208e87a184a91805bc21cdd6bf96cb"
 
 [update]
 [update.modrinth]
 mod-id = "Ed25eRJG"
-version = "wjuXCfHj"
+version = "FESvoEJq"
