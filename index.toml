@@ -22,7 +22,7 @@ hash = "31b6306196467c15f02895f7fc3640dce6cb52b3c1b70615fdfb6270d0914b9e"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "7d6a5a15e2e1ca375e2c2cba8d367f5b7c0e4ed2200caaeb158fe90abb4f36a3"
+hash = "eb1a2d587d4402808ceb74f5dea497f1c677bb213768b057d0d1c28c80fe177a"
 
 [[files]]
 file = "icon.png"
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-warp-menu.pw.toml"
-hash = "a2bab2169847e625aefbb9229a7ab29bfba423a22b294fa61163ae774e250159"
+hash = "0d2d01ba379b237f2c37fd165e6422fc75161a7c5c2da7577b52db837da22a35"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/packcore.pw.toml"
-hash = "2c1d8406e638571fe6929152825edd4a762d4d3fdef7995b9bc9066097d954de"
+hash = "528505879f1c92ec194b41bb53a7b34e53f126b1fee3df5e14e4a6757b5e0177"
 metafile = true
 
 [[files]]
