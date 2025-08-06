@@ -1,13 +1,13 @@
 name = "Modern Warp Menu"
-filename = "modernwarpmenu-0.1.4+1.21.5.jar"
+filename = "modernwarpmenu-0.1.5+1.21.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3GNyRk4I/versions/oKy8OraE/modernwarpmenu-0.1.4%2B1.21.5.jar"
+url = "https://cdn.modrinth.com/data/3GNyRk4I/versions/wBvvbUxJ/modernwarpmenu-0.1.5%2B1.21.5.jar"
 hash-format = "sha512"
-hash = "0208f66539629357b94b4cd4ee4c030b0cbce5ec509a0d16c016cd528b0b54c254fba88dfa317672b23be8745f0776f1dced06c858199fb1e20dfdee0629b405"
+hash = "0aea892920d93a5cc804458cdc098de0af4cda1bd92af9230cdea44e714e65294c04d871fe3e901d280b2af4f10ea133e9dc6ae768d5b7e0b8c43c277e68abab"
 
 [update]
 [update.modrinth]
 mod-id = "3GNyRk4I"
-version = "oKy8OraE"
+version = "wBvvbUxJ"
