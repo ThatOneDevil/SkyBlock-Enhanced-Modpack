@@ -179,6 +179,11 @@ hash = "da9ac20bdc1caa50ebec291429638780924e8a5060ec39abe085c7e6182b3a6f"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "3c79199e4f8a8221ae7095f45a83655fa3baebb59e4cab3d2544be52d1b29df6"
+metafile = true
+
+[[files]]
 file = "mods/packcore.pw.toml"
 hash = "528505879f1c92ec194b41bb53a7b34e53f126b1fee3df5e14e4a6757b5e0177"
 metafile = true
