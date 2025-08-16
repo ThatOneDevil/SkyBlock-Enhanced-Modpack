@@ -22,7 +22,7 @@ hash = "31b6306196467c15f02895f7fc3640dce6cb52b3c1b70615fdfb6270d0914b9e"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "f75b256b20c6acd26696d7497d212078e9c9291bfcd6d5948d7b228ce0a468cc"
+hash = "4d9606914203abcecbbc0c09aa87571b612ff335aabd2872d0abc98a80716618"
 
 [[files]]
 file = "icon.png"
@@ -30,7 +30,7 @@ hash = "51576c0fa92902a17f8484e56a89daf68489e71e39ea98717502b7eac34ad8b2"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "e5e0885e614d4d22bda2248d3688b7ba6559fe1ca947b416124e61c0aaa70c79"
+hash = "599b493a454411ad83f055f763394176a90b0c3a8a2bd3f7c50acde27fec4a79"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/scaleme.pw.toml"
-hash = "5d1aa36dd881099e85fefe006bc68559e44930dedd376c2404c5d643fc4e436d"
+hash = "aa5495114c82a0c3860fad3e6bdef2dfcc7bea0b81c3a4659a3e54a433e2f06e"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-profile-viewer.pw.toml"
-hash = "4a38b1873729e5f5deeca9bdc095409b5f51d95a8157f57db12b4b4c3ada9ca5"
+hash = "18dff54e8512c82d276e7c1c85dc3436df7abe128ab5057495f30ba885fb8502"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyocean.pw.toml"
-hash = "99bb16fe60e6d1eed079afd7cc1a75d51aeeceaa077e9bfbc8154e7baa7b441b"
+hash = "4750382b4a5c9e6b5a08e5820d21d3cbca239053d5265d5aec96827083ee4066"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/hypixel-plus.pw.toml"
-hash = "bbc5a21ac06cbfad45153cc7448a8b24cc9f6e72f6dd9b7329c7a8fe7b101000"
+hash = "b555c2d901e7a5bd84ff48e6b2ca401bcc6529e37d6ef5f2e4aa5f7b73889ed1"
 metafile = true
 
 [[files]]
