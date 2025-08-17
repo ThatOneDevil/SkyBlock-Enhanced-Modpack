@@ -1,13 +1,13 @@
 name = "Scale Me"
-filename = "scaleme-2.1.0+1.21.5.jar"
+filename = "scaleme-2.1.1+1.21.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pEGu9f0K/versions/IDNUWxVw/scaleme-2.1.0%2B1.21.5.jar"
+url = "https://cdn.modrinth.com/data/pEGu9f0K/versions/LPaLsUgE/scaleme-2.1.1%2B1.21.5.jar"
 hash-format = "sha512"
-hash = "72223c0ad660aeb0498097e678c1f1682538fcfb84db19603e4371688e30989b8d294f95b39f903f0bc2ad011b68295f504ae989dfe51937a15d2141bc1a6752"
+hash = "a382912f62d870ae33f6d3cfcd684423c70afa7f780fa9af4407fbc88e177c7915bbe851010899b0bc416800cdd1b6e9e8b05481f03cc980f8566a7067ede385"
 
 [update]
 [update.modrinth]
 mod-id = "pEGu9f0K"
-version = "IDNUWxVw"
+version = "LPaLsUgE"
