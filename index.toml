@@ -22,7 +22,7 @@ hash = "31b6306196467c15f02895f7fc3640dce6cb52b3c1b70615fdfb6270d0914b9e"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "58d080088595ca501368adb16b69fcc9baf8bfb7795c1b6ff3cfc9f781fb97e6"
+hash = "888af203d2bfeb14bba501d2174631e75a21448f6b81a10b65e3bcce47e6ad4a"
 
 [[files]]
 file = "icon.png"
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "71d677a700af52d68701352a6ea65c57a5de0571ad91a3dec298c4fdb5888388"
+hash = "c2a10da019bcf16359a1caf91946aed50151907921510daa7a7909c7ee7f8b70"
 metafile = true
 
 [[files]]
