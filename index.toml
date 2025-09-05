@@ -38,7 +38,7 @@ hash = "d0cc29fd2c46100f0ffc04228ab1328b165f7273733b3bd13ccd5ca0587c1a33"
 
 [[files]]
 file = "Skyblock Enhanced/modpack_info.json"
-hash = "cf9dbfd8023f0987d7e2dde103915df25278ab447c13e4b13c224083a95aa1c6"
+hash = "618ef80b3275361a9969c455e021c9cbc75768ab265be9a730f54d5f6df529c8"
 
 [[files]]
 file = "icon.png"
@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "603cb52a6389dd28d565d327e90d902bbb1d8d65dbc28ca2f542add9dfff530c"
+hash = "adf9d1590499c8a87aefe00558e7baf5957e6807dfbf52d36f68c3e3e9459b3c"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "5cccde64678e9f475612c0c232043d822f3a3508c23607b10c055375e2f1f44c"
+hash = "e04198250ca79a336376bc902ba4f9e7989450befb3e70a9e920e064070cd09f"
 metafile = true
 
 [[files]]
@@ -155,5 +155,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/hypixel-plus.pw.toml"
-hash = "e13e6ce1b3a7c438d382f912351b9c464058a9f25fab6be8a049ff69550ed407"
+hash = "ffb22d1ced0fd847edb8a65d3653723dd56d1612a3fea5bfc37c5b22e0bb818a"
 metafile = true
