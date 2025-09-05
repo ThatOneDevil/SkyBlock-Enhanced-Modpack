@@ -1,13 +1,13 @@
 name = "Bazaar Utils ✦ Hypixel Skyblock"
-filename = "bazaarutils-v0.5.0-beta.1+mc1.21.5.jar"
+filename = "bazaarutils-v0.6.0-alpha+mc1.21.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/c4u7nzUZ/versions/sHoV2ZSf/bazaarutils-v0.5.0-beta.1%2Bmc1.21.5.jar"
+url = "https://cdn.modrinth.com/data/c4u7nzUZ/versions/HdVQPC49/bazaarutils-v0.6.0-alpha%2Bmc1.21.5.jar"
 hash-format = "sha512"
-hash = "2a1d000438483ab08df3281e055251a59aa89fc2aa2dcd36d3d64bd79b502706c69cdde3186e32beaa86fed3faf79afa4cb890c300c2f036521b5231331b57c4"
+hash = "f50690ddd2f8c114868b2c112e4f36432f4199ec15f21840fbb92de124625fc17e8f97b2a11869d1b3ba0431cff127ef1c0ae7afa93ef85e4863ab3a2262c2da"
 
 [update]
 [update.modrinth]
 mod-id = "c4u7nzUZ"
-version = "sHoV2ZSf"
+version = "HdVQPC49"
