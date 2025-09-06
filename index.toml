@@ -22,7 +22,7 @@ hash = "31b6306196467c15f02895f7fc3640dce6cb52b3c1b70615fdfb6270d0914b9e"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "38a3f95a819dc4df2cc00fdcecaa5a7970cf13d48348e9a047ceaf623895e995"
+hash = "89432837da09fcd86822457b602bbb0b899ec07456bdde39e8bab6972b4f90a6"
 
 [[files]]
 file = "icon.png"
@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/bazaar-utils.pw.toml"
-hash = "d9dc5c573a9477a83b7b9e471dbcc3a92c78165f6314be9d6f5b66770567186b"
+hash = "b1e705d055a2b55d5d02ae622610d59d004dad6328bfaffe9df41e69807cbc27"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "5c86d2bb90fa66de1756ee67028ee50932f2d05f869f00b60fbcb2ff33c8bf78"
+hash = "2f6031ef013ac3b0ea0b25099a6f4947506baf248e65f2943f763de4c680432a"
 metafile = true
 
 [[files]]
