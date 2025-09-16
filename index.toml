@@ -22,7 +22,7 @@ hash = "31b6306196467c15f02895f7fc3640dce6cb52b3c1b70615fdfb6270d0914b9e"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "4bb16c5b633e561b75d1c09f656fc9cd3aaa8d1f45a50fd5517831d21c87164d"
+hash = "d396d83b92dc17208e806ba70691b0247c1490c0d571161316f9404b47676ce2"
 
 [[files]]
 file = "icon.png"
@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/bazaar-utils.pw.toml"
-hash = "ede246114b942a18c874061a3850f2c5fe4d79e41941d79a969746f40db5e7cf"
+hash = "76364a27fc7ae0dca8b3573d6f94f42e76b93d799ef1cfccd9a4acde0e36e9bd"
 metafile = true
 
 [[files]]
@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyocean.pw.toml"
-hash = "4750382b4a5c9e6b5a08e5820d21d3cbca239053d5265d5aec96827083ee4066"
+hash = "bf659f0d5de1d31e696916d4d81695da8ad7943afb7b3a51ec979710486f736b"
 metafile = true
 
 [[files]]
