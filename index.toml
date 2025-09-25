@@ -22,7 +22,7 @@ hash = "31b6306196467c15f02895f7fc3640dce6cb52b3c1b70615fdfb6270d0914b9e"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "a9e7355fb45ce68627b4eb8629a01753ce2570b97a03711e36cf744ca7fac197"
+hash = "a7be39f783c6bb82a4e016706fbe2356fdd09c422a04c6490904dc998e86c58f"
 
 [[files]]
 file = "icon.png"
@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/bazaar-utils.pw.toml"
-hash = "76364a27fc7ae0dca8b3573d6f94f42e76b93d799ef1cfccd9a4acde0e36e9bd"
+hash = "e8e0a01ab03fd99ddb5aa40538cbc99814a726e02bff334646c0cee56aa00887"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "772b4329e035c8b0dbb728ab5c005bca5b5ea398880f7ab2edbec8a1414e8347"
+hash = "d6c762a1ae9e43903416e37af42f63f1c485051b77d44c5501a2097c1149b630"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5d6f1406628a792f100454fb8cbf3ad70a76fe58e0bdb09df3cf5e8d86e878a7"
+hash = "aff7a565699323a9319eb3791adfa5c24e230c92d947bc97714e816acb101f8a"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "f97eefc6f496e3524c01c01f3796d6fb64d1f94aed20573cb4bb13c63960f93a"
+hash = "57e357c77dee0309614029a1357786905e724ccd656b055a16d340f5067b46c4"
 metafile = true
 
 [[files]]
