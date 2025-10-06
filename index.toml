@@ -22,7 +22,7 @@ hash = "31b6306196467c15f02895f7fc3640dce6cb52b3c1b70615fdfb6270d0914b9e"
 
 [[files]]
 file = "SkyBlock Enhanced/modpack_info.json"
-hash = "9ca2b2ebf5cf6f3c81afcb9eebce78d36c68ed3c7a08ed0373f42950cbff09bc"
+hash = "9941b910e80996835854f3c3f3b9982831d94794c24d2613e4ebfa3197a15383"
 
 [[files]]
 file = "icon.png"
@@ -45,7 +45,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "1e59464196bd2a0cb5dcc4eb6014e323982e993c68c0f0173ff95b58ceed366e"
+hash = "284a7ccf2dc6ff43378230c252323359634f2b566212924ad0f138f4203079c6"
 metafile = true
 
 [[files]]
@@ -235,12 +235,12 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-profile-viewer.pw.toml"
-hash = "3658a3ccd3966510224f59adfc5274289dfc51166798d637772135a9f7923d90"
+hash = "ce94f6c40a19c645a9aead8a60fd4e6ce6317ed2032f99e90a34c5c3961b16aa"
 metafile = true
 
 [[files]]
 file = "mods/skyblockaddons-unofficial.pw.toml"
-hash = "7623847efa8147522be3e5bbaf42826641a552f5a9bfbc764a7ec8ff01af02a1"
+hash = "ccebed9beea247d724eb57aaee60ac175d01d4007eeb93dd3f48432783648baf"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyocean.pw.toml"
-hash = "6380e3f3968470df2fb2b0956f160cc2375ec7279321c43c666fa6d45734efa6"
+hash = "f3c66f62ed9925c0608cd23a59c8455b1558347a711e502878dd102fac1a8170"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "b91aa8ca577a8397296c43e06f54e8246cbdacd44afa08ab6188323c441ac359"
+hash = "2d27a6e7c7e28a33b4e3d85106f80fd6629f060ec31a8be525f1c2ac9f769cf1"
 metafile = true
 
 [[files]]
