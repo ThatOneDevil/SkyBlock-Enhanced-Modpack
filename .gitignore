@@ -1,0 +1,27 @@
+# =========================
+# Legacy Edition
+# =========================
+SkyBlock_Enhanced_Legacy_Edition/*.zip
+SkyBlock_Enhanced_Legacy_Edition/*.mrpack
+SkyBlock_Enhanced_Legacy_Edition/*.txt
+
+# =========================
+# Modern Editions 1.21.5 & 1.21.8
+# =========================
+
+# Ignore docs folder
+SkyBlock_Enhanced_Modern_Edition_1.21.5/.pakku/docs/
+SkyBlock_Enhanced_Modern_Edition_1.21.8/.pakku/docs/
+
+# Ignore build folders
+SkyBlock_Enhanced_Modern_Edition_1.21.5/build/
+SkyBlock_Enhanced_Modern_Edition_1.21.8/build/
+
+# Ignore mods, resourcepacks, and shaderpacks
+SkyBlock_Enhanced_Modern_Edition_1.21.5/mods/
+SkyBlock_Enhanced_Modern_Edition_1.21.5/resourcepacks/
+SkyBlock_Enhanced_Modern_Edition_1.21.5/shaderpacks/
+
+SkyBlock_Enhanced_Modern_Edition_1.21.8/mods/
+SkyBlock_Enhanced_Modern_Edition_1.21.8/resourcepacks/
+SkyBlock_Enhanced_Modern_Edition_1.21.8/shaderpacks/
