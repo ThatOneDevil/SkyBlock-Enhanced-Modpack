@@ -1,53 +1,56 @@
-# SkyBlock Enhanced – Modern Edition
+<div align="center">
 
-[![Modrinth](https://img.shields.io/badge/Download-Modrinth-1bd96a?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/skyblock-enhanced-modern-edition) [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pdwxyjTta7) [![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kdgaming1)
+# **SkyBlock Enhanced – Modern Edition**
 
-A complete, pre-configured modpack built specifically for **Hypixel SkyBlock** on **Minecraft 1.21.5/1.21.8**. Over 60 optimized mods delivering smooth performance, extensive quality-of-life features, and zero setup hassle.
+[![Modrinth](https://img.shields.io/badge/Download-Modrinth-1BD96A?style=flat&logo=modrinth&logoColor=white)](https://modrinth.com/modpack/skyblock-enhanced-modern-edition)
+[![Discord](https://img.shields.io/badge/Join%20Us-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/pdwxyjTta7)
+[![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/kdgaming1)
+[![Downloads](https://img.shields.io/modrinth/dt/skyblock-enhanced-modern-edition?style=flat&logo=modrinth&label=Downloads&color=1BD96A)](https://modrinth.com/modpack/skyblock-enhanced-modern-edition)
 
----
+A complete, pre-configured modpack designed specifically for  
+**Hypixel SkyBlock on Minecraft 1.21.5 / 1.21.8**.
 
-## 📥 Quick Install
+Over **60 optimized mods** delivering smooth performance, QoL features, and zero setup hassle.
 
-**Download from Modrinth:** [SkyBlock Enhanced – Modern Edition](https://modrinth.com/modpack/skyblock-enhanced-modern-edition)
-
-For detailed installation instructions, see the [Installation Guide](#-installation-guide) below.
-
----
-
-## ✨ Key Features
-
-- **🎯 Pre-configured experience** – 20+ hours of fine-tuning for optimal gameplay
-- **⚡ 13 performance mods** – Optimized for smooth FPS even on lower-end systems
-- **🎮 9 SkyBlock-specific mods** – Hundreds of QoL features for farming, dungeons, mining, and more
-- **🎨 Welcome Wizard** – Choose performance profiles, UI layouts, and resource packs on first launch
-- **💾 Config manager** – Export, import, and restore configurations with ease
-- **📱 Resolution presets** – Tailored configs for 1080p, 1440p, and 4K displays
-- **🔄 One-click updates** – Keep all mods current effortlessly
+</div>
 
 ---
 
-## 🚀 Installation Guide
+## What This Modpack Provides
 
-### Using Modrinth App (Recommended)
+- A **fully pre-tuned SkyBlock experience** with 20+ hours of configuration.
+- **13 performance mods** for excellent FPS, even on low-end hardware.
+- **9 SkyBlock-focused mods** with hundreds of QoL enhancements.
+- A **Welcome Wizard** that configures visuals, performance, and UI on first launch.
+- A built-in **config manager** for exporting, importing, or restoring presets.
+- **Resolution presets** for 1080p, 1440p, and 4K displays.
+- **One-click automatic updates** for all included mods.
 
-1. Download and install the [Modrinth App](https://modrinth.com/app)
-2. Sign in with your Microsoft account
-3. Search for "SkyBlock Enhanced: Modern Edition" in the Discover tab
-4. Click **Install**
-5. Allocate 4-8GB RAM (see [RAM allocation guide](#-ram-allocation))
+---
+
+## Quick Install
+
+Download on Modrinth:  
+→ https://modrinth.com/modpack/skyblock-enhanced-modern-edition
+
+Using the Modrinth App:
+
+1. Install the Modrinth App  
+2. Sign in with your Microsoft account  
+3. Search for "SkyBlock Enhanced – Modern Edition"  
+4. Click Install  
+5. Allocate 4–8 GB of RAM  
 6. Launch and enjoy!
 
-For detailed instructions with screenshots, visit the [full installation guide on Modrinth](https://modrinth.com/modpack/skyblock-enhanced-modern-edition).
-
 ---
 
-## 🛠️ Building From Source
+## Building From Source
 
-This modpack uses **Pakku** for version control and building. Follow these steps to build it yourself:
+This pack uses **Pakku** for version control and exporting.
 
-### Prerequisites
+### Requirements
 
-- Install Pakku: [Installation Guide](https://juraj-hrivnak.github.io/Pakku/installing-pakku.html)
+- Pakku → https://juraj-hrivnak.github.io/Pakku/installing-pakku.html  
 - Git (to clone the repository)
 
 ### Build Steps
@@ -91,70 +94,80 @@ This modpack uses **Pakku** for version control and building. Follow these steps
 pakku update --all
 ```
 
-**Learn more:** [Pakku Documentation](https://juraj-hrivnak.github.io/Pakku/)
+## Major Mods Included
 
----
+### SkyBlock Enhancements
 
-## 📋 Version Control
-
-This repository contains the source files for building SkyBlock Enhanced using Pakku.
-
-For the latest stable release, always download from [Modrinth](https://modrinth.com/modpack/skyblock-enhanced-modern-edition).
-
-## 🎮 Major Mods Included
-
-### SkyBlock Enhancement
-
-- **SkyHanni** – Garden tracking, damage indicators, Diana waypoints, and more
-- **Skyblocker** – Dungeon solvers, price tracking, experiment solvers
-- **Firmament** – NEU-inspired inventory tools and storage overlay
-- **SkyOcean** – Item value screen, storage search, trophy fish tracking
-- **Modern Warp Menu** – Clean island navigation
+- SkyHanni  
+- Skyblocker  
+- Firmament  
+- SkyOcean  
+- Modern Warp Menu  
 
 ### Performance
 
-- Sodium, ImmediatelyFast, FerriteCore
-- Entity Culling, C2ME, Krypton
-- Lithium, ThreadTweak, and more
+- Sodium  
+- Lithium  
+- FerriteCore  
+- ImmediatelyFast  
+- Entity Culling  
+- C2ME  
+- Krypton  
+- ThreadTweak  
+- And more  
 
 ### Quality of Life
 
-- REI (Roughly Enough Items)
-- Chat Patches, BetterF3
-- Zoomify, Gamma Utils
-- 35+ additional QoL mods
+- REI  
+- Chat Patches  
+- BetterF3  
+- Zoomify  
+- Gamma Utils  
+- 35+ other QoL mods  
 
-**Full mod list:** See the [Modrinth page](https://modrinth.com/modpack/skyblock-enhanced-modern-edition)
-
----
-## 💬 Community & Support
-
-**Join our Discord:** [discord.gg/pdwxyjTta7](https://discord.gg/pdwxyjTta7)
-
-Get help, share configs, stay updated on releases, and connect with other SkyBlock players!
-
-## 💖 Support the Project
-
-**Ko-fi:** [ko-fi.com/kdgaming1](https://ko-fi.com/kdgaming1)
-
-**Server Hosting:** Use code **SBE** at [Bisect Hosting](https://www.bisecthosting.com/SBE) for **25% off**
-
-## 📜 License & Credits
-
-- **Modpack by:** Kd_Gaming1
-- **PackCore 3.0:** Thanks to @aurielyn for helping making this update come to life
-- **Logo:** Thanks to @ic22487
-- All included mods are Hypixel-safe and follow server guidelines
+Full list available on Modrinth.
 
 ---
 
-## 🔗 Links
+## Looking for Other SkyBlock Modpacks?
 
-- **Modrinth:** [Download Here](https://modrinth.com/modpack/skyblock-enhanced-modern-edition)
-- **Discord:** [Join Community](https://discord.gg/pdwxyjTta7)
-- **Support:** [Ko-fi](https://ko-fi.com/kdgaming1)
-- **Hosting:** [Bisect Hosting (25% off with code SBE)](https://www.bisecthosting.com/SBE)
+### SkyBlock Enhanced – Modern Edition (1.21+)
+The newest, most advanced version.  
+→ https://modrinth.com/project/e0oMrxjp
+
+### SkyBlock Enhanced [Hypixel] (1.8.9)
+The classic experience.  
+→ https://modrinth.com/project/9JTbeXjU
 
 ---
 
-**Happy gaming, and see you in SkyBlock!** 🎮✨
+## Support the Project
+
+Support future development:  
+→ https://ko-fi.com/kdgaming1
+
+---
+
+## Server Hosting Partner
+
+Use code **SBE** for **25% off**:  
+→ https://www.bisecthosting.com/SBE?r=SkyblockEnhancedModrinthPage
+
+![Bisect Hosting promotional banner advertising 'Use code SBE for 25% off' to start your adventure, featuring the Bisect Hosting logo and pixelated Minecraft-style text with golden decorative borders](https://cdn.modrinth.com/data/cached_images/01502d9d41e784dfa18a3a1903a3e906cde1af1f.webp)
+
+---
+
+## License & Credits
+
+- Modpack by **Kd_Gaming1**  
+- Built with **PackCore 3.0** (thanks to @aurielyn)  
+- Logo by **@ic22487**  
+- All included mods comply with Hypixel’s allowed modifications.
+
+---
+
+<div align="center">
+
+**Enjoy your adventure, and see you in SkyBlock!** ✨
+
+</div>
